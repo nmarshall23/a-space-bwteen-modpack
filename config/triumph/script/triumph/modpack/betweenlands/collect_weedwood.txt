@@ -1,0 +1,14 @@
+
+setIcon("thebetweenlands:log_weedwood", 12)
+setTitle("Find a Weedwood Tree")
+setDescription("Collect Weedwood planks")
+setTranslatedTitle("advancements.thebetweenlands.adventurer.big_wood.title")
+setTranslatedDescription("advancements.thebetweenlands.adventurer.big_wood.description")
+
+addParent("triumph:modpack/betweenlands/root")
+
+
+criteria = addCriteria("wither_skull", "minecraft:inventory_changed")
+criteria.addItem("minecraft:skull", 1)
+// criteria = addCriteria("giant_tree", "thebetweenlands:location")
+// criteria.setName("giant_tree")
