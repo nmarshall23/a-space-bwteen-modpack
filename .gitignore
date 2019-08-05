@@ -1,4 +1,17 @@
-/mods
+mods/
+patchouli_data.json
+TombManyGraves/
+local/
+astralsorcery/
+journeymap/icon/
+journeymap/data/
+journeymap/server/
+journeymap/journeymap.log
+config/splash.properties
+
+usercache.json
+usernamecache.json
+
 # Add the following to your gitignore:
 
 # Instance Sync
@@ -7,6 +20,7 @@
 **/*.jar.disabled
 **/*.jar.meta
 
+logs/
 # Optional: Generic Modpack Ignores
 **/*.log
 /.mixin.out
@@ -14,4 +28,5 @@
 /downloads
 /resourcepacks
 .curseclient
-options.txt
+# options.txt
+config/jei/worldSettings.cfg

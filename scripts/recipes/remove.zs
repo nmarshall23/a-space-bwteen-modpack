@@ -6,7 +6,10 @@ import crafttweaker.item.IItemStack;
 
 #Remove Items
 val removeItems as IItemStack[] = [
-  <tconstruct:smeltery_controller>
+  <tconstruct:smeltery_controller>,
+  <tcomplement:high_oven_controller>,
+  <waystones:warp_stone>,
+  <waystones:waystone>
 ];
 iRecipes.remove(removeItems);
 
