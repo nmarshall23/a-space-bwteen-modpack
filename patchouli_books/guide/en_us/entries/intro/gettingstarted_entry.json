@@ -1,0 +1,12 @@
+{
+  "name": "Back to the Overworld!",
+  "sortnum": 0,
+  "icon": "minecraft:writable_book",
+  "category": "intro",
+  "pages": [
+    {
+      "type": "text",
+      "text": "To return the to Overworld, step into any of the doorways and wait a moment."
+    }
+  ]
+}

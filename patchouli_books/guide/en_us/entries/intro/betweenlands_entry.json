@@ -1,0 +1,17 @@
+{
+  "name": "Guide to Betweenlands",
+  "icon": "minecraft:writable_book",
+  "category": "intro",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The first thing you should know about surviving in this dimension is this. $(br) It will not be nearly as easy to survive in the Betweenlands as it is to in The Overworld. It's much harder to move, more dangerous mobs will attack you, some flora is dangerous to touch, and you must always be aware of not only your hunger and health bar, but also your Decay bar."
+    },
+    {
+      "type": "link",
+      "text": "I have not had time to finish my very quick basics guide to Betweenlands. Here is a link to the wiki.",
+      "url": "https://the-betweenlands.fandom.com/wiki/Basic_Guide_to_Survival",
+      "link_text": "Betweenlands Wiki"
+    }
+  ]
+}
