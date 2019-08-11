@@ -22,5 +22,38 @@ zenClass Astralsorcery {
 	######## Instance Variable ########
 	//==================================
 
+ # https://crafttweaker.readthedocs.io/en/latest/#Mods/Astral_Sorcery/Altar/
+
+  function addDiscoveryAltarRecipe(map as IIngredient[][][IItemStack], int starlightRequired, int craftingTickTime ) {
+		for item, itemRecipes in map {
+			recipes.remove(item);
+
+			for i, recipe in itemRecipes {
+				var name as string = getItemName(item);
+
+				if(i > 0) {
+          name = name ~ "_" ~ i;
+        }
+        
+        Altar.addDiscoveryAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
+			}
+		}
+	}
+
+  function addDiscoveryAltarRecipe(map as IIngredient[][][IItemStack], int starlightRequired, int craftingTickTime ) {
+		for item, itemRecipes in map {
+			recipes.remove(item);
+
+			for i, recipe in itemRecipes {
+				var name as string = getItemName(item);
+
+				if(i > 0) {
+          name = name ~ "_" ~ i;
+        }
+        
+        Altar.addDiscoveryAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
+			}
+		}
+	}
 
 }
