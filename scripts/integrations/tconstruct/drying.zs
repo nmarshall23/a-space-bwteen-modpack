@@ -7,4 +7,4 @@ import mods.tconstruct.Drying;
 #Leather
 Drying.removeRecipe(<minecraft:leather>);
 
-Drying.addRecipe(<thebetweenlands:swamp_reed_item>, <thebetweenlands:items_misc:6>, 120);
+Drying.addRecipe(<thebetweenlands:items_misc:6>, <thebetweenlands:swamp_reed_item>, 120);

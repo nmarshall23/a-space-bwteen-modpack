@@ -4,6 +4,8 @@
 #Date: 2019-07-30
 # https://crafttweaker.readthedocs.io/en/latest/#Mods/Astral_Sorcery/Astral_Sorcery/
 
+import scripts.functions.getItemName;
+
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 import crafttweaker.liquid.ILiquidStack;
