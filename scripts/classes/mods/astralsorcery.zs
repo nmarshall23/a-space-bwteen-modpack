@@ -24,7 +24,7 @@ zenClass Astralsorcery {
 
  # https://crafttweaker.readthedocs.io/en/latest/#Mods/Astral_Sorcery/Altar/
 
-  function addDiscoveryAltarRecipe(map as IIngredient[][][IItemStack], int starlightRequired, int craftingTickTime ) {
+  function addDiscoveryAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
 		for item, itemRecipes in map {
 			recipes.remove(item);
 
@@ -40,7 +40,7 @@ zenClass Astralsorcery {
 		}
 	}
 
-  function addDiscoveryAltarRecipe(map as IIngredient[][][IItemStack], int starlightRequired, int craftingTickTime ) {
+  function addAttunmentAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
 		for item, itemRecipes in map {
 			recipes.remove(item);
 
@@ -51,7 +51,7 @@ zenClass Astralsorcery {
           name = name ~ "_" ~ i;
         }
         
-        Altar.addDiscoveryAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
+        Altar.addAttunmentAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
 			}
 		}
 	}
