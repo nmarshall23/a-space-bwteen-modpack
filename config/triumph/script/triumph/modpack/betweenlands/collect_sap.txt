@@ -1,9 +1,0 @@
-setIcon("minecraft:skull", 1)
-//Set title String
-setTitle("Find a Sap Tree")
-setDescription("Collect Balls of Sap")
-
-addParent("triumph:modpack/betweenlands/root")
-
-criteria = addCriteria("wither_skull", "minecraft:inventory_changed")
-criteria.addItem("minecraft:skull", 1)
