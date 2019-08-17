@@ -9,7 +9,12 @@ val removeItems as IItemStack[] = [
   <tconstruct:smeltery_controller>,
   <tcomplement:high_oven_controller>,
   <waystones:warp_stone>,
-  <waystones:waystone>
+  <waystones:waystone>,
+  <botania:manatablet>,
+  <botania:runealtar>,
+  <botania:alfheimportal>, 
+  <botania:terraplate>,
+  <botania:alchemycatalyst>
 ];
 iRecipes.remove(removeItems);
 

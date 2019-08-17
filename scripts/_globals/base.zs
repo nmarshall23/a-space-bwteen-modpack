@@ -5,6 +5,8 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDictEntry;
 
+global PACK_NAME as string = "nmExBet";
+
 //==================================
 ######## The Betweenlands ########
 //==================================

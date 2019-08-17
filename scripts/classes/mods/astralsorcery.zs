@@ -31,29 +31,44 @@ zenClass Astralsorcery {
 			recipes.remove(item);
 
 			for i, recipe in itemRecipes {
-				var name as string = getItemName(item);
+				var name as string =  PACK_NAME ~ ":shaped/altar/dis/" ~ getItemName(item);
 
 				if(i > 0) {
           name = name ~ "_" ~ i;
         }
-        
+        print("adding Altar Recipe" ~ name);
         Altar.addDiscoveryAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
 			}
 		}
 	}
 
-  function addAttunmentAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
+  function replaceWithAttunementAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
 		for item, itemRecipes in map {
 			recipes.remove(item);
 
 			for i, recipe in itemRecipes {
-				var name as string = getItemName(item);
+				var name as string =  PACK_NAME ~ ":shaped/altar/replaced/att/" ~ getItemName(item);
 
 				if(i > 0) {
           name = name ~ "_" ~ i;
         }
         
-        Altar.addAttunmentAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
+        Altar.addAttunementAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
+			}
+		}
+	}
+
+  function addAttunementAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
+		for item, itemRecipes in map {
+
+			for i, recipe in itemRecipes {
+				var name as string =  PACK_NAME ~ ":shaped/altar/att/" ~ getItemName(item);
+
+				if(i > 0) {
+          name = name ~ "_" ~ i;
+        }
+        
+        Altar.addAttunementAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
 			}
 		}
 	}
