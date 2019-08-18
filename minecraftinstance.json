@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-08-16T04:01:05.6366Z",
+  "lastPlayed": "2019-08-17T05:14:24.753947Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -73,6 +73,21 @@
       "queryTimestamp": "2019-08-16T18:08:19.064267Z",
       "fileCount": 1,
       "fileSize": 42104
+    },
+    {
+      "folderName": "InitialInventory-3.0.0.jar",
+      "fingerprint": 1938919746,
+      "fileDateHash": 1657862126,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1938919746
+      ],
+      "status": 1,
+      "timestamp": "2019-08-17T04:00:49.635787Z",
+      "lastWriteTimeUtc": "2019-08-17T04:00:37Z",
+      "queryTimestamp": "2019-08-17T04:00:49.832388Z",
+      "fileCount": 1,
+      "fileSize": 7863
     },
     {
       "folderName": "Chisel-MC1.12.2-0.2.1.35.jar",
@@ -321,19 +336,66 @@
       "fileSize": 70745
     },
     {
-      "folderName": "incontrol-1.12-3.9.13.jar",
-      "fingerprint": 1338335007,
-      "fileDateHash": 1713858699,
-      "sectionID": 8,
+      "folderName": "New World01",
+      "fingerprint": 2300569198,
+      "fileDateHash": 2396165257,
+      "sectionID": 10,
       "individualFingerprints": [
-        1338335007
+        12723163,
+        115860322,
+        461496523,
+        482686081,
+        489458212,
+        489458212,
+        667509593,
+        698023012,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        929277792,
+        989832744,
+        997671167,
+        1032107097,
+        1145967519,
+        1216684113,
+        1274551582,
+        1573948233,
+        1645823736,
+        1645823736,
+        1645823736,
+        1745531631,
+        1791933251,
+        1987788359,
+        1990491471,
+        2102103160,
+        2373476728,
+        2393349032,
+        3008148646,
+        3134755400,
+        3242891341,
+        3402921035,
+        3533626746,
+        3562086875,
+        3610617145,
+        3897682499,
+        3925641095,
+        3949699449,
+        3954123295,
+        4014134849,
+        4017532498,
+        4055379962,
+        4084984430,
+        4188394195,
+        4213863462,
+        4239841416
       ],
       "status": 1,
-      "timestamp": "2019-08-01T22:32:31.993844Z",
-      "lastWriteTimeUtc": "2019-07-29T21:28:39Z",
-      "queryTimestamp": "2019-08-16T18:08:19.067436Z",
-      "fileCount": 1,
-      "fileSize": 152216
+      "timestamp": "2019-08-17T04:26:07.002344Z",
+      "lastWriteTimeUtc": "2019-08-17T04:25:55Z",
+      "queryTimestamp": "2019-08-17T04:26:07.424401Z",
+      "fileCount": 17,
+      "fileSize": 0
     },
     {
       "folderName": "rustic-1.1.1.jar",
@@ -604,6 +666,21 @@
       "queryTimestamp": "2019-08-16T18:08:19.071061Z",
       "fileCount": 1,
       "fileSize": 155196
+    },
+    {
+      "folderName": "incontrol-1.12-3.9.16.jar",
+      "fingerprint": 1318089065,
+      "fileDateHash": 2166920880,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1318089065
+      ],
+      "status": 1,
+      "timestamp": "2019-08-17T04:00:49.638621Z",
+      "lastWriteTimeUtc": "2019-08-16T18:10:34Z",
+      "queryTimestamp": "2019-08-17T04:00:49.840322Z",
+      "fileCount": 1,
+      "fileSize": 153207
     },
     {
       "folderName": "StepupFix-1.12.2-1.0.0.4.b17.jar",
@@ -1026,6 +1103,21 @@
       "fileSize": 166714
     },
     {
+      "folderName": "NotEnoughScaffold-1.12.2-1.10.jar",
+      "fingerprint": 3947845252,
+      "fileDateHash": 1296524742,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3947845252
+      ],
+      "status": 1,
+      "timestamp": "2019-08-17T04:26:06.998745Z",
+      "lastWriteTimeUtc": "2019-08-17T04:00:57Z",
+      "queryTimestamp": "2019-08-17T04:26:07.434803Z",
+      "fileCount": 1,
+      "fileSize": 33065
+    },
+    {
       "folderName": "Surge-1.12.2-2.0.77.jar",
       "fingerprint": 4112112673,
       "fileDateHash": 2738878105,
@@ -1324,21 +1416,6 @@
       "queryTimestamp": "2019-08-16T18:08:19.093312Z",
       "fileCount": 1,
       "fileSize": 532040
-    },
-    {
-      "folderName": "NotEnoughScaffold-1.12.2-1.8.jar",
-      "fingerprint": 1453075980,
-      "fileDateHash": 1221765897,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1453075980
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.087524Z",
-      "lastWriteTimeUtc": "2019-07-27T20:37:40Z",
-      "queryTimestamp": "2019-08-16T18:08:19.093542Z",
-      "fileCount": 1,
-      "fileSize": 33423
     },
     {
       "folderName": "WindowDressings_1.2.1.jar",
