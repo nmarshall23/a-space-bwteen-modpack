@@ -1,8 +1,8 @@
-mods/
+./mods/
 patchouli_data.json
 TombManyGraves/
 local/
-astralsorcery/
+./astralsorcery/
 journeymap/icon/
 journeymap/data/
 journeymap/server/
