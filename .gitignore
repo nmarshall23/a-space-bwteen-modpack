@@ -12,6 +12,8 @@ config/splash.properties
 usercache.json
 usernamecache.json
 
+*.dat
+
 # Add the following to your gitignore:
 
 # Instance Sync

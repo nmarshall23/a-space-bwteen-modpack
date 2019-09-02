@@ -26,7 +26,23 @@ zenClass Astralsorcery {
 
  # https://crafttweaker.readthedocs.io/en/latest/#Mods/Astral_Sorcery/Altar/
 
-  function addDiscoveryAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
+	function addDiscoveryAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
+		for item, itemRecipes in map {
+
+			for i, recipe in itemRecipes {
+				var name as string =  PACK_NAME ~ ":shaped/altar/dis/" ~ getItemName(item);
+
+				if(i > 0) {
+  			        name = name ~ "_" ~ i;
+    		    }
+        		
+				print("adding Altar Recipe" ~ name);
+        		Altar.addDiscoveryAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
+			}
+		}
+	}
+
+	function replaceWithDiscoveryAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
 		for item, itemRecipes in map {
 			recipes.remove(item);
 
@@ -34,10 +50,11 @@ zenClass Astralsorcery {
 				var name as string =  PACK_NAME ~ ":shaped/altar/dis/" ~ getItemName(item);
 
 				if(i > 0) {
-          name = name ~ "_" ~ i;
-        }
-        print("adding Altar Recipe" ~ name);
-        Altar.addDiscoveryAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
+  			        name = name ~ "_" ~ i;
+    		    }
+        		
+				print("adding Altar Recipe" ~ name);
+        		Altar.addDiscoveryAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
 			}
 		}
 	}
@@ -58,7 +75,7 @@ zenClass Astralsorcery {
 		}
 	}
 
-  function addAttunementAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
+  	function addAttunementAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
 		for item, itemRecipes in map {
 
 			for i, recipe in itemRecipes {
@@ -73,4 +90,35 @@ zenClass Astralsorcery {
 		}
 	}
 
+
+	function addConstellationAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
+		for item, itemRecipes in map {
+
+			for i, recipe in itemRecipes {
+				var name as string =  PACK_NAME ~ ":shaped/altar/att/" ~ getItemName(item);
+
+				if(i > 0) {
+        			name = name ~ "_" ~ i;
+        	}
+        
+        		Altar.addConstellationAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
+			}
+		}
+	}
+
+	function replaceWithConstellationAltarRecipe(map as IIngredient[][][IItemStack], starlightRequired as int, craftingTickTime as int) {
+		for item, itemRecipes in map {
+			recipes.remove(item);
+
+			for i, recipe in itemRecipes {
+				var name as string =  PACK_NAME ~ ":shaped/altar/att/" ~ getItemName(item);
+
+				if(i > 0) {
+        			name = name ~ "_" ~ i;
+        	}
+        
+        		Altar.addConstellationAltarRecipe(name, item, starlightRequired, craftingTickTime, recipe);
+			}
+		}
+	}
 }

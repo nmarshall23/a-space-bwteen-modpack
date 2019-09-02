@@ -7,6 +7,19 @@ import crafttweaker.oredict.IOreDictEntry;
 
 global PACK_NAME as string = "nmExBet";
 
+
+//==================================
+######## Botania ########
+//==================================
+
+global manaSteelIngot as IItemStack = <botania:manaresource>;
+global manaPearl as IItemStack = <botania:manaresource:1>;
+global manaDiamond as IItemStack = <botania:manaresource:2>;
+global manaString as IItemStack = <botania:manaresource:16>;
+global livingWoodTwig as IItemStack = <botania:manaresource:3>;
+global livingRock as IItemStack = <botania:livingrock>;
+global livingWood as IItemStack = <botania:livingwood>;
+
 //==================================
 ######## The Betweenlands ########
 //==================================
@@ -41,6 +54,8 @@ global searedBrick as IItemStack = <tconstruct:materials>;
 global mudBrick as IItemStack = <tconstruct:materials:1>;
 global driedBrick as IItemStack = <tconstruct:materials:2>;
 global mossBall as IItemStack = <tconstruct:materials:18>;
+
+global scorchedBrick as IItemStack = <tcomplement:materials:1>;
 
 //==================================
 ######## Minecraft ########
