@@ -9,4 +9,4 @@ Updated mods
 
 Added mods
 
-Metal Chests, Refined Relocation 2
+Metal Chests, Refined Relocation 2, Roots
