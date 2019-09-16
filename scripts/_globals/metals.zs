@@ -109,6 +109,7 @@ global metal as IItemStack[string][string] = {
 global ingot as IIngredient[string] = {
 	iron : <ore:ingotIron>,
 	gold : <ore:ingotGold>,
+	aluminum: <ore:ingotAluminum>,
 	copper : <ore:ingotCopper>,
 	tin : <ore:ingotTin>,
 	lead : <ore:ingotLead>,
@@ -128,6 +129,7 @@ global ingot as IIngredient[string] = {
 global block as IIngredient[string] = {
 	iron : <ore:blockIron>,
 	gold : <ore:blockGold>,
+	aluminum: <ore:blockAluminum>,
 	copper : <ore:blockCopper>,
 	tin : <ore:blockTin>,
 	lead : <ore:blockLead>,
@@ -146,6 +148,7 @@ global block as IIngredient[string] = {
 global plate as IIngredient[string] = {
 	iron : <ore:plateIron>,
 	gold : <ore:plateGold>,
+	aluminum: <ore:plateAluminum>,
 	copper : <ore:plateCopper>,
 	tin : <ore:plateTin>,
 	lead : <ore:plateLead>,

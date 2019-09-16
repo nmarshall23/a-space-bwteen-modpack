@@ -6,7 +6,13 @@ Updated mods
 - Charm
 - Climatic Biomes 2
 - Just Enough Items
+- Storage Drawers
+- Ore Stone Variants
+- Botania
 
 Added mods
 
-Metal Chests, Refined Relocation 2, Roots
+- Metal Chests 
+- Refined Relocation 2 
+- Roots
+- MysticWorld
