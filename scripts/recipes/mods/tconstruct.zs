@@ -6,6 +6,9 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 
 
+mods.tconstruct.Melting.removeRecipe(<liquid:iron>, <minecraft:hopper>);
+mods.tconstruct.Melting.removeRecipe(<liquid:aluminum>, <minecraft:hopper>);
+mods.tconstruct.Melting.removeRecipe(<liquid:bronze>, <minecraft:hopper>);
 
 
 val recipes as IIngredient[][][][IItemStack] = {

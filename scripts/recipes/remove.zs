@@ -12,7 +12,10 @@ val removeItems as IItemStack[] = [
   <waystones:waystone>,
    <botania:alchemycatalyst>,
    <botania:terraplate>,
-   <botania:brewery>
+   <botania:brewery>,
+   <tconstruct:cast_custom:3>, # Plate Cast
+   <metalchests:chest_upgrade:1>,
+   <metalchests:chest_upgrade>
 ];
 iRecipes.remove(removeItems);
 
