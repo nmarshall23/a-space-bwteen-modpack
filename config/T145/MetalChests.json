@@ -15,14 +15,14 @@
       "holding": 0
     },
     "iron": {
-      "index": 2,
+      "index": 0,
       "enabled": true,
       "rows": 6,
       "cols": 9,
       "holding": 0
     },
     "silver": {
-      "index": 1,
+      "index": 2,
       "enabled": true,
       "rows": 5,
       "cols": 9,
