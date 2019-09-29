@@ -12,7 +12,9 @@ import crafttweaker.item.IItemStack;
 <metalchests:metal_chest:3>.displayName = "Electrum Chest";
 <metalchests:metal_sorting_chest:3>.displayName = "Electrum Sorting Chest";
 
-val recipes as IIngredient[][][][IItemStack] = {
+<metalchests:chest_upgrade:1>.displayName = "Wood to Electrum";
+
+val myRecipes as IIngredient[][][][IItemStack] = {
     <metalchests:metal_chest>: [
         [
             [ingot.copper, null, ingot.copper],
@@ -43,4 +45,13 @@ val recipes as IIngredient[][][][IItemStack] = {
     ]
 };
 
-iRecipes.add(recipes, false);
+iRecipes.add(myRecipes, false);
+
+mods.jei.JEI.removeAndHide(<metalchests:chest_upgrade:0>);
+mods.jei.JEI.removeAndHide(<metalchests:chest_upgrade:1>);
+mods.jei.JEI.removeAndHide(<metalchests:chest_upgrade:2>);
+mods.jei.JEI.removeAndHide(<metalchests:chest_upgrade:3>);
+mods.jei.JEI.removeAndHide(<metalchests:chest_upgrade:4>);
+mods.jei.JEI.removeAndHide(<metalchests:chest_upgrade:5>);
+
+#recipes.remove(<metalchests:chest_upgrade:2>);

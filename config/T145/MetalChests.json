@@ -36,14 +36,14 @@
       "holding": 0
     },
     "diamond": {
-      "index": 2,
+      "index": 3,
       "enabled": false,
       "rows": 6,
       "cols": 18,
       "holding": 0
     },
     "obsidian": {
-      "index": 3,
+      "index": 4,
       "enabled": false,
       "rows": 6,
       "cols": 18,

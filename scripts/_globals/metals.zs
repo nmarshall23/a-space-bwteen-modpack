@@ -4,6 +4,7 @@
 
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
+import crafttweaker.oredict.IOreDictEntry;
 
 #Metal Unification
 global metal as IItemStack[string][string] = {
@@ -145,7 +146,7 @@ global block as IIngredient[string] = {
 	syrmorite : <ore:blockSyrmorite>
 };
 
-global plate as IIngredient[string] = {
+global plate as IOreDictEntry[string] = {
 	iron : <ore:plateIron>,
 	gold : <ore:plateGold>,
 	aluminum: <ore:plateAluminum>,
