@@ -6,6 +6,8 @@
 global iAstralSorcery as scripts.classes.mods.astralsorcery.Astralsorcery = scripts.classes.mods.astralsorcery.Astralsorcery();
 global embers as scripts.classes.mods.embers.Embers = scripts.classes.mods.embers.Embers();
 global tic as scripts.classes.mods.tconstruct.TConstruct = scripts.classes.mods.tconstruct.TConstruct();
+global iRoots as scripts.classes.mods.roots.Roots = scripts.classes.mods.roots.Roots();
+
 # global rustic as scripts.classes.mods.rustic.Rustic = scripts.classes.mods.rustic.Rustic();
 # global iBotania as scripts.classes.mods.botania.Botania = scripts.classes.mods.botania.Botania();
 
