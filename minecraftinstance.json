@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-09-28T22:01:08.390417Z",
+  "lastPlayed": "2019-10-05T22:49:49.019252Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -133,21 +133,6 @@
       "queryTimestamp": "2019-10-05T03:57:36.858197Z",
       "fileCount": 1,
       "fileSize": 344055
-    },
-    {
-      "folderName": "FTBUtilities-5.4.0.106.jar",
-      "fingerprint": 3806393299,
-      "fileDateHash": 1366966123,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3806393299
-      ],
-      "status": 1,
-      "timestamp": "2019-09-21T20:28:12.338289Z",
-      "lastWriteTimeUtc": "2019-09-21T17:46:49Z",
-      "queryTimestamp": "2019-10-05T03:57:36.85844Z",
-      "fileCount": 1,
-      "fileSize": 432444
     },
     {
       "folderName": "FastWorkbench-1.12.2-1.7.2.jar",
@@ -573,6 +558,21 @@
       "fileSize": 1987
     },
     {
+      "folderName": "CarryOn MC1.12.2 v1.12.2.jar",
+      "fingerprint": 1024393389,
+      "fileDateHash": 3274263384,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1024393389
+      ],
+      "status": 1,
+      "timestamp": "2019-10-05T22:49:34.794443Z",
+      "lastWriteTimeUtc": "2019-10-05T22:49:00Z",
+      "queryTimestamp": "2019-10-05T22:49:35.373934Z",
+      "fileCount": 1,
+      "fileSize": 317390
+    },
+    {
       "folderName": "NotEnoughCats-1.12.2-1.2.1.jar",
       "fingerprint": 3786036098,
       "fileDateHash": 2903685600,
@@ -837,6 +837,21 @@
       "fileSize": 62668
     },
     {
+      "folderName": "FTBUtilities-5.4.0.107.jar",
+      "fingerprint": 1597856711,
+      "fileDateHash": 3165943434,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1597856711
+      ],
+      "status": 1,
+      "timestamp": "2019-10-05T22:49:34.80703Z",
+      "lastWriteTimeUtc": "2019-10-05T22:44:28Z",
+      "queryTimestamp": "2019-10-05T22:49:35.376821Z",
+      "fileCount": 1,
+      "fileSize": 432455
+    },
+    {
       "folderName": "modtweaker-4.0.17.jar",
       "fingerprint": 2501908090,
       "fileDateHash": 1535731389,
@@ -940,21 +955,6 @@
       "queryTimestamp": "2019-10-05T03:57:36.870726Z",
       "fileCount": 1,
       "fileSize": 108306
-    },
-    {
-      "folderName": "FTBLib-5.4.3.138.jar",
-      "fingerprint": 3029461336,
-      "fileDateHash": 1443874048,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3029461336
-      ],
-      "status": 1,
-      "timestamp": "2019-09-15T22:03:54.003459Z",
-      "lastWriteTimeUtc": "2019-09-15T21:59:30Z",
-      "queryTimestamp": "2019-10-05T03:57:36.870909Z",
-      "fileCount": 1,
-      "fileSize": 925004
     },
     {
       "folderName": "tinkersjei-1.2.jar",
@@ -1090,6 +1090,21 @@
       "queryTimestamp": "2019-10-05T03:57:36.873083Z",
       "fileCount": 1,
       "fileSize": 6278399
+    },
+    {
+      "folderName": "FTBLib-5.4.3.139.jar",
+      "fingerprint": 4176133431,
+      "fileDateHash": 1578638808,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4176133431
+      ],
+      "status": 1,
+      "timestamp": "2019-10-05T22:49:34.797597Z",
+      "lastWriteTimeUtc": "2019-10-05T22:44:26Z",
+      "queryTimestamp": "2019-10-05T22:49:35.380312Z",
+      "fileCount": 1,
+      "fileSize": 925442
     },
     {
       "folderName": "Erosion-2.2.1.jar",
@@ -1499,6 +1514,21 @@
       "fileSize": 5200
     },
     {
+      "folderName": "randompatches-1.12.2-1.19.1.0.jar",
+      "fingerprint": 2293867718,
+      "fileDateHash": 3070175242,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2293867718
+      ],
+      "status": 1,
+      "timestamp": "2019-10-05T22:49:34.812644Z",
+      "lastWriteTimeUtc": "2019-10-05T22:44:33Z",
+      "queryTimestamp": "2019-10-05T22:49:35.385985Z",
+      "fileCount": 1,
+      "fileSize": 270364
+    },
+    {
       "folderName": "CraftTweaker2-1.12-4.1.19.jar",
       "fingerprint": 4052665094,
       "fileDateHash": 1166634921,
@@ -1617,21 +1647,6 @@
       "queryTimestamp": "2019-10-05T03:57:36.879918Z",
       "fileCount": 1,
       "fileSize": 166714
-    },
-    {
-      "folderName": "randompatches-1.12.2-1.19.0.0.jar",
-      "fingerprint": 2679999929,
-      "fileDateHash": 3018560817,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2679999929
-      ],
-      "status": 1,
-      "timestamp": "2019-10-05T04:00:58.506782Z",
-      "lastWriteTimeUtc": "2019-10-05T03:59:38Z",
-      "queryTimestamp": "2019-10-05T04:00:58.773608Z",
-      "fileCount": 1,
-      "fileSize": 268805
     },
     {
       "folderName": "Surge-1.12.2-2.0.77.jar",
@@ -4400,6 +4415,86 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 274259,
+      "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
+      "installedFile": {
+        "id": 2730778,
+        "displayName": "CarryOn MC1.12.2 v1.12.2",
+        "fileName": "CarryOn MC1.12.2 v1.12.2.jar",
+        "fileDate": "2019-06-26T14:16:42.45Z",
+        "fileLength": 317390,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2730/778/CarryOn MC1.12.2 v1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 290240,
+            "type": 1,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 519275943,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3576226913,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2180987566,
+            "type": 0
+          },
+          {
+            "foldername": "tschipp",
+            "fingerprint": 1922726702,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1024393389,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CarryOn MC1.12.2 v1.12.2.jar"
+      },
+      "dateInstalled": "2019-10-05T22:49:00.998414Z",
+      "dateUpdated": "2019-10-05T22:49:01.003601Z",
+      "dateLastUpdateAttempted": "2019-10-05T22:49:01.003601Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 304894,
