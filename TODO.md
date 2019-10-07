@@ -23,5 +23,29 @@ Quark 75% sleeping required
 
 ## Inisal Items
 
-Need to make this work
-Teleport Stone, papers
+## 
+
+## Reciptes to Fix
+- Remove String to Wool recipte
+- Add Name Tag, paper - String
+- Add Recipe for Lead?
+
+## Show Harvist levels on ores
+
+
+## Docs in the begaining
+- Tools by tinker
+- Roots
+- scaffold
+- Ore double with Melter
+
+## Early game
+- needs a new Tinker mat.
+
+## Midgame
+- Botania
+- Embers
+
+## Neat stuff in 
+- Quark
+- Charm
