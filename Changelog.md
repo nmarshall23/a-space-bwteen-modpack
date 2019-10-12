@@ -16,3 +16,14 @@ Added mods
 - Refined Relocation 2 
 - Roots
 - MysticWorld
+
+1.3.0
+
+Updated mods
+
+ - Roots
+ - MysticWorld
+ - ClimaticBiomes
+
+Added Mods
+ - WaterMechanicsBackport
