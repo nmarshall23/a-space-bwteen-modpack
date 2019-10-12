@@ -23,29 +23,35 @@ Quark 75% sleeping required
 
 ## Inisal Items
 
-## 
+## Mods thoughts
+
+- Erosion 2, might be too easy to get mossystone.
 
 ## Reciptes to Fix
+
 - Remove String to Wool recipte
 - Add Name Tag, paper - String
 - Add Recipe for Lead?
 
 ## Show Harvist levels on ores
 
-
 ## Docs in the begaining
+
 - Tools by tinker
 - Roots
 - scaffold
 - Ore double with Melter
 
 ## Early game
+
 - needs a new Tinker mat.
 
 ## Midgame
+
 - Botania
 - Embers
 
-## Neat stuff in 
+## Neat stuff in
+
 - Quark
 - Charm
