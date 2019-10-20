@@ -7,3 +7,6 @@
 //==================================
 
 hopper.add(<thebetweenlands:syrmorite_hopper>);
+
+
+<ore:stoneBasalt>.add(<climaticbiomesjbg:basalt>);
