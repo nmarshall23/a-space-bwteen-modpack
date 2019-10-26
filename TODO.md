@@ -33,7 +33,15 @@ Quark 75% sleeping required
 - Add Name Tag, paper - String
 - Embers Automatic Breaker, needs harder then Obsidean matz
 
-## Show Harvist levels on ores
+## Features missing
+
+- mining levels on ores
+
+## Add recipes to futureMC mechines
+
+- Composter needs more seeds, and plant matter.
+- BlastFurnace, bake bricks, morter, ember caminite.
+- Stonecutter, could Tconstruct molds be cut on this? 3 ingots of Alum?
 
 ## Docs in the begaining
 
@@ -42,14 +50,23 @@ Quark 75% sleeping required
 - scaffold
 - Ore double with Melter
 
-## Early game
+## Early game,
 
-- needs a new Tinker mat.
+- Roots
+- Melter
+- needs a new Tinker mat?
 
 ## Midgame
 
-- Botania
+- Botania, Roots is a prerequisite?
 - Embers
+- Betweenlands, move wand to Roots
+- Nether
+
+## Late Midgame, been to Betweenlands
+
+- Alloys
+- Steel
 
 ## Neat stuff in
 
