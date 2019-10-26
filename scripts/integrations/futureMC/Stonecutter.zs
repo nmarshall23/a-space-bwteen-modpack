@@ -6,6 +6,7 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 
 import mods.minecraftfuture.Stonecutter;
+# https://minecraft.gamepedia.com/Stonecutter
 # https://github.com/thedarkcolour/Future-MC/wiki/Stonecutter-Functions
 
 # Stonecutter.addOutputs(IItemStack input, IItemStack... outputs);
