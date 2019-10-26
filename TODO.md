@@ -29,9 +29,9 @@ Quark 75% sleeping required
 
 ## Reciptes to Fix
 
-- Remove String to Wool recipte
+- Remove String to Wool recipte?
 - Add Name Tag, paper - String
-- Add Recipe for Lead?
+- Embers Automatic Breaker, needs harder then Obsidean matz
 
 ## Show Harvist levels on ores
 
