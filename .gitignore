@@ -32,3 +32,5 @@ logs/
 .curseclient
 # options.txt
 /backups
+config/jei/bookmarks.ini
+crash-reports/
