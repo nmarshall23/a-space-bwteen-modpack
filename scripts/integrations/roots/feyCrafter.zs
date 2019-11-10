@@ -33,6 +33,24 @@ val replacementRecipes as IIngredient[][][IItemStack] = {
             <minecraft:end_rod>,
             <ore:stickWood>
         ]
+    ],
+    <thebetweenlands:swamp_talisman>: [
+        [
+            <roots:terra_moss>,
+            <minecraft:bone>,
+            <minecraft:bone>,
+            <minecraft:cobblestone>,
+            <minecraft:cobblestone>
+        ]
+    ],
+    <waystones:bound_scroll>: [
+        [
+            <ore:dyeBlack>,
+            <astralsorcery:itemcraftingcomponent:5>,
+            <roots:moonglow_leaf>,
+            <roots:moonglow_leaf>,
+            <minecraft:feather>
+        ]
     ]
 };
 

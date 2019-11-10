@@ -27,3 +27,12 @@ Updated mods
 
 Added Mods
  - WaterMechanicsBackport
+
+ 1.4.0
+
+Updated Mods
+ 
+ - Chisel
+ - Future-MC
+ - TheBetweenlands
+ - TConstruct

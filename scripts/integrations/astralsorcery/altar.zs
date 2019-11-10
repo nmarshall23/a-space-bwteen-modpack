@@ -34,19 +34,7 @@ val discoveryAltarRecipes as IIngredient[][][IItemStack] = {
 
 iAstralSorcery.replaceWithDiscoveryAltarRecipe(discoveryAltarRecipes, 200, 200);
 
-val attunmentAltarRecipes as IIngredient[][][IItemStack] = {
 
-  <waystones:return_scroll>: [
-    [
-      null, <ore:dyeBlack>, null,
-      <astralsorcery:itemusabledust>, <astralsorcery:itemcraftingcomponent:5>, <astralsorcery:itemusabledust>, 
-      null, <minecraft:feather>, null,
-      null, null, null, null
-    ]
-  ]
-};
-
-iAstralSorcery.addAttunementAltarRecipe(attunmentAltarRecipes, 200, 200);
 
 val crushedAlgae = <thebetweenlands:items_crushed:18>;
 val crushedCaveGrass = <thebetweenlands:items_crushed:26>;
