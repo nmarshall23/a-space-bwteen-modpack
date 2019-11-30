@@ -34,3 +34,5 @@ logs/
 /backups
 config/jei/bookmarks.ini
 crash-reports/
+betweenlands_gallery/gallery_1.0.0/*
+
