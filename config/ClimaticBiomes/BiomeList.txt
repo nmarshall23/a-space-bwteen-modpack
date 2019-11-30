@@ -96,5 +96,6 @@ thebetweenlands:sludge_plains
 thebetweenlands:marsh_0
 thebetweenlands:marsh_1
 thebetweenlands:swamplands_clearing
+thebetweenlands:sludge_plains_clearing
 stygian:stygian_growth
 stygian:acidic_plains
