@@ -36,3 +36,21 @@ Updated Mods
  - Future-MC
  - TheBetweenlands
  - TConstruct
+
+# v1.5.0
+
+Added Mods
+ - DocumentYourModMod
+ - jeiintegration
+ - Mystical Mechanics
+ - HarvestCraft
+
+Updated Mods
+ - ore_stone_variants
+ - CarryOn
+ - TheBetweenlands
+ - mysticalworld
+ - Roots
+
+Removed
+ - Vanilla Food Pantry

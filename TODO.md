@@ -72,3 +72,8 @@ Quark 75% sleeping required
 
 - Quark
 - Charm
+
+
+## Set Mobs Spawns
+
+No zombie pigmen on bone blocks
