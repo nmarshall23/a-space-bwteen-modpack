@@ -32,6 +32,7 @@ Quark 75% sleeping required
 - Remove String to Wool recipte?
 - Add Name Tag, paper - String
 - Embers Automatic Breaker, needs harder then Obsidean matz
+- Tinker Slime
 
 ## Features missing
 
@@ -50,10 +51,11 @@ Quark 75% sleeping required
 - scaffold
 - Ore double with Melter
 
-## Early game,
+## Early game
 
 - Roots
 - Melter
+- Cooking for Block heads
 - needs a new Tinker mat?
 
 ## Midgame
@@ -73,7 +75,22 @@ Quark 75% sleeping required
 - Quark
 - Charm
 
-
 ## Set Mobs Spawns
 
 No zombie pigmen on bone blocks
+
+### Mods I'm consitering adding
+
+Platforms: <https://www.curseforge.com/minecraft/mc-mods/platforms/files/2616061>
+
+Cycle Paintings: <https://www.curseforge.com/minecraft/mc-mods/cycle-paintings>
+
+Bewitchment <https://www.curseforge.com/minecraft/mc-mods/bewitchment/files/2848648>
+
+Mowzie's Mobs <https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs>
+
+Consecration <https://www.curseforge.com/minecraft/mc-mods/consecration>
+
+utility-staffs-2 <https://www.curseforge.com/minecraft/mc-mods/utility-staffs-2>, this need an update to use just tinkers. Might help them with that.
+
+Set Bonus <https://www.curseforge.com/minecraft/mc-mods/set-bonus>
