@@ -25,6 +25,20 @@ val recipes as IIngredient[][][][IItemStack] = {
             [scorchedBrick, <embers:wildfire_core>, scorchedBrick],
             [scorchedBrick, <minecraft:magma>, scorchedBrick]
         ],
+    ],
+    <tconstruct:materials:12>: [
+        [
+            [null, <ore:gemLapis>, null],
+            [<minecraft:piston>, <minecraft:slime_ball>, <minecraft:piston>],
+            [null, <ore:gemLapis>, null]
+        ]
+    ],
+    <tconstruct:materials:13>: [
+        [
+            [null, <minecraft:piston>, null],
+            [<ore:gemLapis>, <minecraft:slime_ball>, <ore:gemLapis>],
+            [null, <minecraft:piston>, null]
+        ]
     ]
 };
 

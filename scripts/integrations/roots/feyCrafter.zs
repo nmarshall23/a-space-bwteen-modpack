@@ -46,7 +46,7 @@ val replacementRecipes as IIngredient[][][IItemStack] = {
     <waystones:bound_scroll>: [
         [
             <ore:dyeBlack>,
-            <astralsorcery:itemcraftingcomponent:5>,
+            <ore:paper>,
             <roots:moonglow_leaf>,
             <roots:moonglow_leaf>,
             <minecraft:feather>

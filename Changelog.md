@@ -44,6 +44,7 @@ Added Mods
  - jeiintegration
  - Mystical Mechanics
  - HarvestCraft
+ - Vials
 
 Updated Mods
  - ore_stone_variants
@@ -54,3 +55,16 @@ Updated Mods
 
 Removed
  - Vanilla Food Pantry
+
+
+# v1.6.0
+
+Updated Mods
+
+ - betternether
+ - TinkersComplement
+ - Botania
+
+Added Mods
+ - oops
+ - walljump
