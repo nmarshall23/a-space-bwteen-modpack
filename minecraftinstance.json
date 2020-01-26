@@ -45,66 +45,6 @@
   "name": "A Space Between",
   "cachedScans": [
     {
-      "folderName": "FastWorkbench-1.12.2-1.7.3.jar",
-      "fingerprint": 2436194208,
-      "fileDateHash": 2731125681,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2436194208
-      ],
-      "status": 1,
-      "timestamp": "2019-12-14T03:49:32.980827Z",
-      "lastWriteTimeUtc": "2019-12-14T03:49:20Z",
-      "queryTimestamp": "2020-01-05T03:27:38.836151Z",
-      "fileCount": 1,
-      "fileSize": 26515
-    },
-    {
-      "folderName": "InitialInventory-3.0.0.jar",
-      "fingerprint": 1938919746,
-      "fileDateHash": 1657862126,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1938919746
-      ],
-      "status": 1,
-      "timestamp": "2019-08-17T04:00:49.635787Z",
-      "lastWriteTimeUtc": "2019-08-17T04:00:37Z",
-      "queryTimestamp": "2020-01-05T03:27:38.836606Z",
-      "fileCount": 1,
-      "fileSize": 7863
-    },
-    {
-      "folderName": "crafttweakerutils-0.5a.jar",
-      "fingerprint": 2866945399,
-      "fileDateHash": 1236880860,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2866945399
-      ],
-      "status": 1,
-      "timestamp": "2019-08-11T22:06:57.599091Z",
-      "lastWriteTimeUtc": "2019-08-11T20:09:07Z",
-      "queryTimestamp": "2020-01-05T03:27:38.836835Z",
-      "fileCount": 1,
-      "fileSize": 20530
-    },
-    {
-      "folderName": "rustic-1.1.2.jar",
-      "fingerprint": 3726589320,
-      "fileDateHash": 1233181964,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3726589320
-      ],
-      "status": 1,
-      "timestamp": "2019-12-14T03:49:32.982134Z",
-      "lastWriteTimeUtc": "2019-12-14T03:48:43Z",
-      "queryTimestamp": "2020-01-05T03:27:38.837028Z",
-      "fileCount": 1,
-      "fileSize": 1358969
-    },
-    {
       "folderName": "Roots-1.12.2-3.0.21.jar",
       "fingerprint": 1183273956,
       "fileDateHash": 1761844192,
@@ -120,19 +60,19 @@
       "fileSize": 1465641
     },
     {
-      "folderName": "Forgelin-1.8.4.jar",
-      "fingerprint": 387064965,
-      "fileDateHash": 3513634334,
+      "folderName": "SimilsaxTranstructors-1.12-1.0.22.jar",
+      "fingerprint": 345962912,
+      "fileDateHash": 3606615617,
       "sectionID": 8,
       "individualFingerprints": [
-        387064965
+        345962912
       ],
       "status": 1,
-      "timestamp": "2019-09-15T22:03:54.012116Z",
-      "lastWriteTimeUtc": "2019-09-15T22:02:12Z",
-      "queryTimestamp": "2020-01-05T03:27:38.837596Z",
+      "timestamp": "2019-08-01T22:32:31.132703Z",
+      "lastWriteTimeUtc": "2019-07-27T20:59:16Z",
+      "queryTimestamp": "2020-01-05T03:27:38.838342Z",
       "fileCount": 1,
-      "fileSize": 6278399
+      "fileSize": 25636
     },
     {
       "folderName": "Tinkers' Addons-1.12.1-1.0.7.jar",
@@ -165,51 +105,6 @@
       "fileSize": 934358
     },
     {
-      "folderName": "SimilsaxTranstructors-1.12-1.0.22.jar",
-      "fingerprint": 345962912,
-      "fileDateHash": 3606615617,
-      "sectionID": 8,
-      "individualFingerprints": [
-        345962912
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.132703Z",
-      "lastWriteTimeUtc": "2019-07-27T20:59:16Z",
-      "queryTimestamp": "2020-01-05T03:27:38.838342Z",
-      "fileCount": 1,
-      "fileSize": 25636
-    },
-    {
-      "folderName": "Erosion-2.2.1.jar",
-      "fingerprint": 2643068269,
-      "fileDateHash": 3453785679,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2643068269
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.99969Z",
-      "lastWriteTimeUtc": "2019-07-27T20:07:21Z",
-      "queryTimestamp": "2020-01-05T03:27:38.838543Z",
-      "fileCount": 1,
-      "fileSize": 26999
-    },
-    {
-      "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
-      "fingerprint": 699442863,
-      "fileDateHash": 3456091933,
-      "sectionID": 8,
-      "individualFingerprints": [
-        699442863
-      ],
-      "status": 1,
-      "timestamp": "2019-08-04T23:06:26.108894Z",
-      "lastWriteTimeUtc": "2019-08-04T23:05:44Z",
-      "queryTimestamp": "2020-01-05T03:27:38.838792Z",
-      "fileCount": 1,
-      "fileSize": 16612
-    },
-    {
       "folderName": "MetalChests-v6.1.0+mc1.12.2.jar",
       "fingerprint": 2846168077,
       "fileDateHash": 105377192,
@@ -223,96 +118,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.839038Z",
       "fileCount": 1,
       "fileSize": 231323
-    },
-    {
-      "folderName": "Cathedral-1.12.2-1.9.7k.jar",
-      "fingerprint": 2044729475,
-      "fileDateHash": 1965193490,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2044729475
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.819729Z",
-      "lastWriteTimeUtc": "2019-07-27T20:37:13Z",
-      "queryTimestamp": "2020-01-05T03:27:38.839268Z",
-      "fileCount": 1,
-      "fileSize": 687265
-    },
-    {
-      "folderName": "journeymap-1.12.2-5.5.6.jar",
-      "fingerprint": 1184925075,
-      "fileDateHash": 1658293322,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1184925075
-      ],
-      "status": 1,
-      "timestamp": "2019-12-27T21:01:33.249985Z",
-      "lastWriteTimeUtc": "2019-12-24T22:31:34Z",
-      "queryTimestamp": "2020-01-05T03:27:38.839503Z",
-      "fileCount": 1,
-      "fileSize": 1933605
-    },
-    {
-      "folderName": "Baubles-1.12-1.5.2.jar",
-      "fingerprint": 4247051032,
-      "fileDateHash": 4205487316,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4247051032
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.809732Z",
-      "lastWriteTimeUtc": "2019-07-27T20:47:41Z",
-      "queryTimestamp": "2020-01-05T03:27:38.839802Z",
-      "fileCount": 1,
-      "fileSize": 108450
-    },
-    {
-      "folderName": "jei_1.12.2-4.15.0.293.jar",
-      "fingerprint": 3097301870,
-      "fileDateHash": 2624381910,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3097301870
-      ],
-      "status": 1,
-      "timestamp": "2019-12-27T21:01:33.244078Z",
-      "lastWriteTimeUtc": "2019-12-24T22:32:14Z",
-      "queryTimestamp": "2020-01-05T03:27:38.840119Z",
-      "fileCount": 1,
-      "fileSize": 653044
-    },
-    {
-      "folderName": "CosmeticArmorReworked-1.12.2-v4a.jar",
-      "fingerprint": 1750257844,
-      "fileDateHash": 1499254043,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1750257844
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.909695Z",
-      "lastWriteTimeUtc": "2019-07-27T22:09:50Z",
-      "queryTimestamp": "2020-01-05T03:27:38.840481Z",
-      "fileCount": 1,
-      "fileSize": 70745
-    },
-    {
-      "folderName": "ore_stone_variants-4.6.jar",
-      "fingerprint": 3932147302,
-      "fileDateHash": 2455288578,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3932147302
-      ],
-      "status": 1,
-      "timestamp": "2019-11-08T01:24:23.913003Z",
-      "lastWriteTimeUtc": "2019-11-08T01:23:49Z",
-      "queryTimestamp": "2020-01-05T03:27:38.840723Z",
-      "fileCount": 1,
-      "fileSize": 247527
     },
     {
       "folderName": "Mystical Mechanics-0.11.jar",
@@ -360,6 +165,21 @@
       "fileSize": 214261
     },
     {
+      "folderName": "f5fix-1.2.jar",
+      "fingerprint": 4269494366,
+      "fileDateHash": 4083978534,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4269494366
+      ],
+      "status": 1,
+      "timestamp": "2020-01-05T19:53:19.038285Z",
+      "lastWriteTimeUtc": "2020-01-05T03:31:17Z",
+      "queryTimestamp": "2020-01-05T19:53:19.283062Z",
+      "fileCount": 1,
+      "fileSize": 5328
+    },
+    {
       "folderName": "WaterMechanicsBackport-1.0.3-1.12.2-NETHERFIX.jar",
       "fingerprint": 744595770,
       "fileDateHash": 905054652,
@@ -373,66 +193,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.841744Z",
       "fileCount": 1,
       "fileSize": 18954
-    },
-    {
-      "folderName": "Charm-1.12.2-1.3.6.jar",
-      "fingerprint": 2585318803,
-      "fileDateHash": 1811750174,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2585318803
-      ],
-      "status": 1,
-      "timestamp": "2019-09-02T18:00:53.57486Z",
-      "lastWriteTimeUtc": "2019-09-02T18:00:40Z",
-      "queryTimestamp": "2020-01-05T03:27:38.841963Z",
-      "fileCount": 1,
-      "fileSize": 2374765
-    },
-    {
-      "folderName": "topaddons-1.12.2-1.12.0.jar",
-      "fingerprint": 17732279,
-      "fileDateHash": 4038267026,
-      "sectionID": 8,
-      "individualFingerprints": [
-        17732279
-      ],
-      "status": 1,
-      "timestamp": "2019-11-08T01:24:23.914775Z",
-      "lastWriteTimeUtc": "2019-11-08T01:24:15Z",
-      "queryTimestamp": "2020-01-05T03:27:38.842201Z",
-      "fileCount": 1,
-      "fileSize": 241463
-    },
-    {
-      "folderName": "Botania r1.10-363.jar",
-      "fingerprint": 3763127432,
-      "fileDateHash": 2549090486,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3763127432
-      ],
-      "status": 1,
-      "timestamp": "2019-12-27T21:01:33.078093Z",
-      "lastWriteTimeUtc": "2019-12-24T22:29:03Z",
-      "queryTimestamp": "2020-01-05T03:27:38.842408Z",
-      "fileCount": 1,
-      "fileSize": 13814617
-    },
-    {
-      "folderName": "MTLib-3.0.6.jar",
-      "fingerprint": 396445966,
-      "fileDateHash": 1535731389,
-      "sectionID": 8,
-      "individualFingerprints": [
-        396445966
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.071729Z",
-      "lastWriteTimeUtc": "2019-07-27T21:22:54Z",
-      "queryTimestamp": "2020-01-05T03:27:38.8426Z",
-      "fileCount": 1,
-      "fileSize": 30002
     },
     {
       "folderName": "CTM-MC1.12.2-1.0.1.30.jar",
@@ -450,92 +210,6 @@
       "fileSize": 199047
     },
     {
-      "folderName": "Controlling-3.0.7.jar",
-      "fingerprint": 2962360278,
-      "fileDateHash": 2645872301,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2962360278
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.902131Z",
-      "lastWriteTimeUtc": "2019-07-27T21:22:57Z",
-      "queryTimestamp": "2020-01-05T03:27:38.843041Z",
-      "fileCount": 1,
-      "fileSize": 27162
-    },
-    {
-      "folderName": "ContentTweaker-1.12.2-4.9.1.jar",
-      "fingerprint": 4180990591,
-      "fileDateHash": 2247716974,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4180990591
-      ],
-      "status": 1,
-      "timestamp": "2019-08-11T22:06:57.589535Z",
-      "lastWriteTimeUtc": "2019-08-11T20:08:48Z",
-      "queryTimestamp": "2020-01-05T03:27:38.843286Z",
-      "fileCount": 1,
-      "fileSize": 274895
-    },
-    {
-      "folderName": "New World",
-      "fingerprint": 4072796411,
-      "fileDateHash": 604854965,
-      "sectionID": 10,
-      "individualFingerprints": [
-        114778655,
-        126809520,
-        154384527,
-        157323487,
-        276590601,
-        322988789,
-        394515569,
-        489458212,
-        489458212,
-        489458212,
-        570683746,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        981326634,
-        1033748491,
-        1150854430,
-        1581895924,
-        1654962970,
-        1884728317,
-        2038767247,
-        2061070594,
-        2353442399,
-        2353442399,
-        2353442399,
-        2356319369,
-        2358406497,
-        2474798837,
-        2636546379,
-        2808426859,
-        2914800135,
-        3134755400,
-        3266221471,
-        3459195618,
-        3471152138,
-        3954123295,
-        3954123295,
-        3984958436,
-        4084733175,
-        4213863462,
-        4239242380
-      ],
-      "status": 1,
-      "timestamp": "2019-10-28T13:36:04.127637Z",
-      "lastWriteTimeUtc": "2019-10-27T06:58:31Z",
-      "queryTimestamp": "2020-01-05T03:27:38.84346Z",
-      "fileCount": 17,
-      "fileSize": 0
-    },
-    {
       "folderName": "Chameleon-1.12-4.1.3.jar",
       "fingerprint": 2760206313,
       "fileDateHash": 3006242875,
@@ -549,36 +223,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.843684Z",
       "fileCount": 1,
       "fileSize": 96859
-    },
-    {
-      "folderName": "Patchouli-1.0-20.jar",
-      "fingerprint": 1352456101,
-      "fileDateHash": 627200468,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1352456101
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.088616Z",
-      "lastWriteTimeUtc": "2019-07-27T20:37:59Z",
-      "queryTimestamp": "2020-01-05T03:27:38.843892Z",
-      "fileCount": 1,
-      "fileSize": 466243
-    },
-    {
-      "folderName": "tombmanygraves2api-1.12.2-1.0.0.jar",
-      "fingerprint": 2159395981,
-      "fileDateHash": 3656765975,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2159395981
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:32.049197Z",
-      "lastWriteTimeUtc": "2019-07-27T20:46:12Z",
-      "queryTimestamp": "2020-01-05T03:27:38.844158Z",
-      "fileCount": 1,
-      "fileSize": 10891
     },
     {
       "folderName": "Placebo-1.12.2-1.6.0.jar",
@@ -611,21 +255,6 @@
       "fileSize": 75170
     },
     {
-      "folderName": "worldprimer-1.12.2-0.6.0-dev.20190814.220944.jar",
-      "fingerprint": 880580111,
-      "fileDateHash": 1990076405,
-      "sectionID": 8,
-      "individualFingerprints": [
-        880580111
-      ],
-      "status": 1,
-      "timestamp": "2019-09-21T20:28:12.346881Z",
-      "lastWriteTimeUtc": "2019-09-21T17:47:52Z",
-      "queryTimestamp": "2020-01-05T03:27:38.845065Z",
-      "fileCount": 1,
-      "fileSize": 100925
-    },
-    {
       "folderName": "Soot-1.6.jar",
       "fingerprint": 119936468,
       "fileDateHash": 3915807239,
@@ -641,36 +270,6 @@
       "fileSize": 2614302
     },
     {
-      "folderName": "BetterFps-1.4.8.jar",
-      "fingerprint": 3051920250,
-      "fileDateHash": 2304583095,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3051920250
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.814614Z",
-      "lastWriteTimeUtc": "2019-07-27T20:55:56Z",
-      "queryTimestamp": "2020-01-05T03:27:38.845597Z",
-      "fileCount": 1,
-      "fileSize": 155196
-    },
-    {
-      "folderName": "StepupFix-1.12.2-1.0.0.4.b17.jar",
-      "fingerprint": 4050330488,
-      "fileDateHash": 4009839091,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4050330488
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.154509Z",
-      "lastWriteTimeUtc": "2019-07-27T22:12:04Z",
-      "queryTimestamp": "2020-01-05T03:27:38.845857Z",
-      "fileCount": 1,
-      "fileSize": 5369
-    },
-    {
       "folderName": "CoFHCore-1.12.2-4.6.3.27-universal.jar",
       "fingerprint": 3521813500,
       "fileDateHash": 2278283779,
@@ -684,21 +283,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.846127Z",
       "fileCount": 1,
       "fileSize": 847938
-    },
-    {
-      "folderName": "incontrol-1.12-3.9.16.jar",
-      "fingerprint": 1318089065,
-      "fileDateHash": 2166920880,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1318089065
-      ],
-      "status": 1,
-      "timestamp": "2019-08-17T04:00:49.638621Z",
-      "lastWriteTimeUtc": "2019-08-16T18:10:34Z",
-      "queryTimestamp": "2020-01-05T03:27:38.846355Z",
-      "fileCount": 1,
-      "fileSize": 153207
     },
     {
       "folderName": "smarthud-2.0.2.jar",
@@ -731,6 +315,21 @@
       "fileSize": 77866
     },
     {
+      "folderName": "incontrol-1.12-3.9.16.jar",
+      "fingerprint": 1318089065,
+      "fileDateHash": 2166920880,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1318089065
+      ],
+      "status": 1,
+      "timestamp": "2019-08-17T04:00:49.638621Z",
+      "lastWriteTimeUtc": "2019-08-16T18:10:34Z",
+      "queryTimestamp": "2020-01-05T03:27:38.846355Z",
+      "fileCount": 1,
+      "fileSize": 153207
+    },
+    {
       "folderName": "mysticalworld-1.12.2-1.6.1.jar",
       "fingerprint": 468542988,
       "fileDateHash": 2494113214,
@@ -746,34 +345,19 @@
       "fileSize": 2746357
     },
     {
-      "folderName": "Quark-r1.6-177.jar",
-      "fingerprint": 225919850,
-      "fileDateHash": 764146980,
+      "folderName": "oops-1.12-5.11.jar",
+      "fingerprint": 628866770,
+      "fileDateHash": 3681273950,
       "sectionID": 8,
       "individualFingerprints": [
-        225919850
+        628866770
       ],
       "status": 1,
-      "timestamp": "2019-08-12T19:33:16.574059Z",
-      "lastWriteTimeUtc": "2019-08-11T22:07:27Z",
-      "queryTimestamp": "2020-01-05T03:27:38.847314Z",
+      "timestamp": "2020-01-05T19:53:19.038999Z",
+      "lastWriteTimeUtc": "2020-01-05T03:28:46Z",
+      "queryTimestamp": "2020-01-05T19:53:19.289919Z",
       "fileCount": 1,
-      "fileSize": 3875942
-    },
-    {
-      "folderName": "AppleSkin-mc1.12-1.0.9.jar",
-      "fingerprint": 1708065614,
-      "fileDateHash": 735603458,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1708065614
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.796261Z",
-      "lastWriteTimeUtc": "2019-07-27T22:22:21Z",
-      "queryTimestamp": "2020-01-05T03:27:38.847545Z",
-      "fileCount": 1,
-      "fileSize": 32317
+      "fileSize": 70999
     },
     {
       "folderName": "Mantle-1.12-1.3.3.55.jar",
@@ -791,64 +375,19 @@
       "fileSize": 843486
     },
     {
-      "folderName": "QuarkOddities-1.12.2.jar",
-      "fingerprint": 4267477614,
-      "fileDateHash": 948176482,
+      "folderName": "EmbersRekindled-1.13-hotfix2.jar",
+      "fingerprint": 1485864800,
+      "fileDateHash": 1889857955,
       "sectionID": 8,
       "individualFingerprints": [
-        4267477614
+        1485864800
       ],
       "status": 1,
-      "timestamp": "2019-08-01T22:32:31.130873Z",
-      "lastWriteTimeUtc": "2019-07-27T20:03:32Z",
-      "queryTimestamp": "2020-01-05T03:27:38.84826Z",
+      "timestamp": "2019-08-01T22:32:30.926318Z",
+      "lastWriteTimeUtc": "2019-07-27T20:49:29Z",
+      "queryTimestamp": "2020-01-05T03:27:38.849501Z",
       "fileCount": 1,
-      "fileSize": 1556
-    },
-    {
-      "folderName": "FastLeafDecay-v14.jar",
-      "fingerprint": 1940914729,
-      "fileDateHash": 3431958698,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1940914729
-      ],
-      "status": 1,
-      "timestamp": "2019-08-16T18:08:18.328219Z",
-      "lastWriteTimeUtc": "2019-07-27T20:07:33Z",
-      "queryTimestamp": "2020-01-05T03:27:38.848487Z",
-      "fileCount": 1,
-      "fileSize": 5200
-    },
-    {
-      "folderName": "Inspirations-1.12.2-0.2.9.jar",
-      "fingerprint": 1357893814,
-      "fileDateHash": 1348527544,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1357893814
-      ],
-      "status": 1,
-      "timestamp": "2019-12-27T21:01:33.20241Z",
-      "lastWriteTimeUtc": "2019-12-24T22:30:00Z",
-      "queryTimestamp": "2020-01-05T03:27:38.848752Z",
-      "fileCount": 1,
-      "fileSize": 842254
-    },
-    {
-      "folderName": "CraftingTweaks_1.12.2-8.1.9.jar",
-      "fingerprint": 316910584,
-      "fileDateHash": 2116869586,
-      "sectionID": 8,
-      "individualFingerprints": [
-        316910584
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.923885Z",
-      "lastWriteTimeUtc": "2019-07-27T22:09:05Z",
-      "queryTimestamp": "2020-01-05T03:27:38.849001Z",
-      "fileCount": 1,
-      "fileSize": 97854
+      "fileSize": 9792671
     },
     {
       "folderName": "astralsorcery-1.12.2-1.10.20.jar",
@@ -866,19 +405,19 @@
       "fileSize": 24973981
     },
     {
-      "folderName": "EmbersRekindled-1.13-hotfix2.jar",
-      "fingerprint": 1485864800,
-      "fileDateHash": 1889857955,
+      "folderName": "CarryOn MC1.12.2 v1.12.3.jar",
+      "fingerprint": 640250510,
+      "fileDateHash": 3707104639,
       "sectionID": 8,
       "individualFingerprints": [
-        1485864800
+        640250510
       ],
       "status": 1,
-      "timestamp": "2019-08-01T22:32:30.926318Z",
-      "lastWriteTimeUtc": "2019-07-27T20:49:29Z",
-      "queryTimestamp": "2020-01-05T03:27:38.849501Z",
+      "timestamp": "2019-10-31T17:16:16.879622Z",
+      "lastWriteTimeUtc": "2019-10-31T17:16:10Z",
+      "queryTimestamp": "2020-01-05T03:27:38.84998Z",
       "fileCount": 1,
-      "fileSize": 9792671
+      "fileSize": 317135
     },
     {
       "folderName": "Pam's HarvestCraft 1.12.2zf.jar",
@@ -894,21 +433,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.84975Z",
       "fileCount": 1,
       "fileSize": 4907780
-    },
-    {
-      "folderName": "CarryOn MC1.12.2 v1.12.3.jar",
-      "fingerprint": 640250510,
-      "fileDateHash": 3707104639,
-      "sectionID": 8,
-      "individualFingerprints": [
-        640250510
-      ],
-      "status": 1,
-      "timestamp": "2019-10-31T17:16:16.879622Z",
-      "lastWriteTimeUtc": "2019-10-31T17:16:10Z",
-      "queryTimestamp": "2020-01-05T03:27:38.84998Z",
-      "fileCount": 1,
-      "fileSize": 317135
     },
     {
       "folderName": "tombmanypluginscosmeticarmorreworked-1.0.0.jar",
@@ -941,34 +465,19 @@
       "fileSize": 4754821
     },
     {
-      "folderName": "theoneprobe-1.12-1.4.28.jar",
-      "fingerprint": 2094495496,
-      "fileDateHash": 34406967,
+      "folderName": "base-1.12.2-3.13.0.jar",
+      "fingerprint": 503243924,
+      "fileDateHash": 2247716974,
       "sectionID": 8,
       "individualFingerprints": [
-        2094495496
+        503243924
       ],
       "status": 1,
-      "timestamp": "2019-10-26T22:32:40.979431Z",
-      "lastWriteTimeUtc": "2019-10-26T22:03:44Z",
-      "queryTimestamp": "2020-01-05T03:27:38.850802Z",
+      "timestamp": "2019-08-11T22:06:57.593119Z",
+      "lastWriteTimeUtc": "2019-08-11T20:08:48Z",
+      "queryTimestamp": "2020-01-05T03:27:38.852208Z",
       "fileCount": 1,
-      "fileSize": 301893
-    },
-    {
-      "folderName": "StorageDrawers-1.12.2-5.4.0.jar",
-      "fingerprint": 3899192495,
-      "fileDateHash": 2814536461,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3899192495
-      ],
-      "status": 1,
-      "timestamp": "2019-09-15T22:03:54.072642Z",
-      "lastWriteTimeUtc": "2019-09-15T22:03:03Z",
-      "queryTimestamp": "2020-01-05T03:27:38.851657Z",
-      "fileCount": 1,
-      "fileSize": 604797
+      "fileSize": 685028
     },
     {
       "folderName": "TinkersComplement-1.12.2-0.4.3.jar",
@@ -986,36 +495,6 @@
       "fileSize": 998411
     },
     {
-      "folderName": "base-1.12.2-3.13.0.jar",
-      "fingerprint": 503243924,
-      "fileDateHash": 2247716974,
-      "sectionID": 8,
-      "individualFingerprints": [
-        503243924
-      ],
-      "status": 1,
-      "timestamp": "2019-08-11T22:06:57.593119Z",
-      "lastWriteTimeUtc": "2019-08-11T20:08:48Z",
-      "queryTimestamp": "2020-01-05T03:27:38.852208Z",
-      "fileCount": 1,
-      "fileSize": 685028
-    },
-    {
-      "folderName": "WitherSkeletonTweaks-1.12.2-2.6.3.jar",
-      "fingerprint": 2926245632,
-      "fileDateHash": 2366258129,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2926245632
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.792639Z",
-      "lastWriteTimeUtc": "2019-07-27T22:09:11Z",
-      "queryTimestamp": "2020-01-05T03:27:38.852487Z",
-      "fileCount": 1,
-      "fileSize": 27026
-    },
-    {
       "folderName": "Waystones_1.12.2-4.0.72.jar",
       "fingerprint": 3152411825,
       "fileDateHash": 2382001435,
@@ -1029,36 +508,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.852724Z",
       "fileCount": 1,
       "fileSize": 175462
-    },
-    {
-      "folderName": "ClimaticBiomes-2.14.11-MC1.12.2.jar",
-      "fingerprint": 3624510459,
-      "fileDateHash": 1220237280,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3624510459
-      ],
-      "status": 1,
-      "timestamp": "2019-12-27T21:01:33.190444Z",
-      "lastWriteTimeUtc": "2019-12-24T22:29:37Z",
-      "queryTimestamp": "2020-01-05T03:27:38.852982Z",
-      "fileCount": 1,
-      "fileSize": 496430
-    },
-    {
-      "folderName": "StorageDrawersUnlimited-1.12.2-1.3.0.jar",
-      "fingerprint": 645058109,
-      "fileDateHash": 3322814755,
-      "sectionID": 8,
-      "individualFingerprints": [
-        645058109
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.16123Z",
-      "lastWriteTimeUtc": "2019-07-27T20:56:58Z",
-      "queryTimestamp": "2020-01-05T03:27:38.85326Z",
-      "fileCount": 1,
-      "fileSize": 2532173
     },
     {
       "folderName": "FTBBackups-1.1.0.1.jar",
@@ -1076,63 +525,6 @@
       "fileSize": 43764
     },
     {
-      "folderName": "N23",
-      "fingerprint": 4173609603,
-      "fileDateHash": 1827192164,
-      "sectionID": 10,
-      "individualFingerprints": [
-        154863480,
-        160204559,
-        194710194,
-        322988789,
-        377663722,
-        436625288,
-        487801290,
-        489458212,
-        489458212,
-        489458212,
-        570644070,
-        625915781,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        820411765,
-        941811541,
-        1159940674,
-        1342917789,
-        1388462866,
-        1463800281,
-        1517845614,
-        1572806564,
-        1731220206,
-        1949063563,
-        1949063563,
-        1949063563,
-        1967473074,
-        2087008565,
-        2226675487,
-        2284270762,
-        2482372446,
-        3134755400,
-        3533626746,
-        3612584667,
-        3905003013,
-        3954123295,
-        3984958436,
-        4213863462,
-        4245426118,
-        4247832602,
-        4253967522
-      ],
-      "status": 1,
-      "timestamp": "2019-12-02T19:00:32.335627Z",
-      "lastWriteTimeUtc": "2019-11-30T23:27:34Z",
-      "queryTimestamp": "2020-01-05T03:27:38.85363Z",
-      "fileCount": 16,
-      "fileSize": 0
-    },
-    {
       "folderName": "Aroma1997Core-1.12.2-2.0.0.2.b165.jar",
       "fingerprint": 2632828997,
       "fileDateHash": 4009839091,
@@ -1146,51 +538,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.853896Z",
       "fileCount": 1,
       "fileSize": 398657
-    },
-    {
-      "folderName": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
-      "fingerprint": 1941774686,
-      "fileDateHash": 2278283779,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1941774686
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.131628Z",
-      "lastWriteTimeUtc": "2019-07-27T20:46:57Z",
-      "queryTimestamp": "2020-01-05T03:27:38.854169Z",
-      "fileCount": 1,
-      "fileSize": 36278
-    },
-    {
-      "folderName": "comforts-1.12.2-1.4.1.2.jar",
-      "fingerprint": 1666307785,
-      "fileDateHash": 1007935500,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1666307785
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.965665Z",
-      "lastWriteTimeUtc": "2019-07-27T20:05:12Z",
-      "queryTimestamp": "2020-01-05T03:27:38.854435Z",
-      "fileCount": 1,
-      "fileSize": 166714
-    },
-    {
-      "folderName": "Surge-1.12.2-2.0.77.jar",
-      "fingerprint": 4112112673,
-      "fileDateHash": 2738878105,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4112112673
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.182266Z",
-      "lastWriteTimeUtc": "2019-07-29T22:04:49Z",
-      "queryTimestamp": "2020-01-05T03:27:38.854663Z",
-      "fileCount": 1,
-      "fileSize": 1042621
     },
     {
       "folderName": "NotEnoughScaffold-1.12.2-1.10.jar",
@@ -1208,36 +555,6 @@
       "fileSize": 33065
     },
     {
-      "folderName": "Clumps-3.1.2.jar",
-      "fingerprint": 1290884162,
-      "fileDateHash": 270329970,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1290884162
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.888542Z",
-      "lastWriteTimeUtc": "2019-07-27T20:05:04Z",
-      "queryTimestamp": "2020-01-05T03:27:38.855113Z",
-      "fileCount": 1,
-      "fileSize": 13792
-    },
-    {
-      "folderName": "Ding-1.12.2-1.0.2.jar",
-      "fingerprint": 903175422,
-      "fileDateHash": 4216741023,
-      "sectionID": 8,
-      "individualFingerprints": [
-        903175422
-      ],
-      "status": 1,
-      "timestamp": "2019-10-05T04:00:57.954965Z",
-      "lastWriteTimeUtc": "2019-10-05T03:59:25Z",
-      "queryTimestamp": "2020-01-05T03:27:38.855324Z",
-      "fileCount": 1,
-      "fileSize": 8008
-    },
-    {
       "folderName": "DocumentYourModMod-1.2.0.jar",
       "fingerprint": 656907207,
       "fileDateHash": 1378719705,
@@ -1251,21 +568,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.855559Z",
       "fileCount": 1,
       "fileSize": 321219
-    },
-    {
-      "folderName": "clarity-1.1.jar",
-      "fingerprint": 3290647999,
-      "fileDateHash": 1878429453,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3290647999
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.964432Z",
-      "lastWriteTimeUtc": "2019-07-27T20:04:58Z",
-      "queryTimestamp": "2020-01-05T03:27:38.85582Z",
-      "fileCount": 1,
-      "fileSize": 1987
     },
     {
       "folderName": "CookingForBlockheads_1.12.2-6.4.71.jar",
@@ -1283,19 +585,49 @@
       "fileSize": 591592
     },
     {
-      "folderName": "CoralReef-2.5-1.12.2.jar",
-      "fingerprint": 2416974035,
-      "fileDateHash": 2138858343,
+      "folderName": "walljump-1.12.2-1.2.3.jar",
+      "fingerprint": 3283941897,
+      "fileDateHash": 4075277808,
       "sectionID": 8,
       "individualFingerprints": [
-        2416974035
+        3283941897
       ],
       "status": 1,
-      "timestamp": "2019-08-01T22:32:30.908124Z",
-      "lastWriteTimeUtc": "2019-07-27T20:06:19Z",
-      "queryTimestamp": "2020-01-05T03:27:38.856477Z",
+      "timestamp": "2020-01-05T19:53:19.040661Z",
+      "lastWriteTimeUtc": "2020-01-05T03:30:56Z",
+      "queryTimestamp": "2020-01-05T19:53:19.298633Z",
       "fileCount": 1,
-      "fileSize": 73465
+      "fileSize": 28913
+    },
+    {
+      "folderName": "Ding-1.12.2-1.0.2.jar",
+      "fingerprint": 903175422,
+      "fileDateHash": 4216741023,
+      "sectionID": 8,
+      "individualFingerprints": [
+        903175422
+      ],
+      "status": 1,
+      "timestamp": "2019-10-05T04:00:57.954965Z",
+      "lastWriteTimeUtc": "2019-10-05T03:59:25Z",
+      "queryTimestamp": "2020-01-05T03:27:38.855324Z",
+      "fileCount": 1,
+      "fileSize": 8008
+    },
+    {
+      "folderName": "clarity-1.1.jar",
+      "fingerprint": 3290647999,
+      "fileDateHash": 1878429453,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3290647999
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.964432Z",
+      "lastWriteTimeUtc": "2019-07-27T20:04:58Z",
+      "queryTimestamp": "2020-01-05T03:27:38.85582Z",
+      "fileCount": 1,
+      "fileSize": 1987
     },
     {
       "folderName": "NotEnoughCats-1.12.2-1.2.1.jar",
@@ -1326,6 +658,21 @@
       "queryTimestamp": "2020-01-05T03:27:38.857002Z",
       "fileCount": 1,
       "fileSize": 551397
+    },
+    {
+      "folderName": "DefaultOptions_1.12.2-9.2.8.jar",
+      "fingerprint": 1590672741,
+      "fileDateHash": 1179640512,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1590672741
+      ],
+      "status": 1,
+      "timestamp": "2019-08-04T23:06:26.106108Z",
+      "lastWriteTimeUtc": "2019-08-04T23:04:53Z",
+      "queryTimestamp": "2020-01-05T03:27:38.857623Z",
+      "fileCount": 1,
+      "fileSize": 15056
     },
     {
       "folderName": "test-b2",
@@ -1398,34 +745,19 @@
       "fileSize": 27195
     },
     {
-      "folderName": "DefaultOptions_1.12.2-9.2.8.jar",
-      "fingerprint": 1590672741,
-      "fileDateHash": 1179640512,
+      "folderName": "anvilpatch-1.0.0.jar",
+      "fingerprint": 1076431429,
+      "fileDateHash": 4053658958,
       "sectionID": 8,
       "individualFingerprints": [
-        1590672741
+        1076431429
       ],
       "status": 1,
-      "timestamp": "2019-08-04T23:06:26.106108Z",
-      "lastWriteTimeUtc": "2019-08-04T23:04:53Z",
-      "queryTimestamp": "2020-01-05T03:27:38.857623Z",
+      "timestamp": "2019-08-01T22:32:31.793909Z",
+      "lastWriteTimeUtc": "2019-07-27T20:38:08Z",
+      "queryTimestamp": "2020-01-05T03:27:38.858497Z",
       "fileCount": 1,
-      "fileSize": 15056
-    },
-    {
-      "folderName": "CraftTweaker2-1.12-4.1.20.jar",
-      "fingerprint": 4244191030,
-      "fileDateHash": 2970325375,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4244191030
-      ],
-      "status": 1,
-      "timestamp": "2019-12-14T03:47:59.634772Z",
-      "lastWriteTimeUtc": "2019-12-08T18:37:26Z",
-      "queryTimestamp": "2020-01-05T03:27:38.857862Z",
-      "fileCount": 1,
-      "fileSize": 1363036
+      "fileSize": 17974
     },
     {
       "folderName": "manatweaks-1.4.jar",
@@ -1458,19 +790,19 @@
       "fileSize": 24024
     },
     {
-      "folderName": "anvilpatch-1.0.0.jar",
-      "fingerprint": 1076431429,
-      "fileDateHash": 4053658958,
+      "folderName": "FastFurnace-1.12.2-1.3.1.jar",
+      "fingerprint": 1142134081,
+      "fileDateHash": 3470243014,
       "sectionID": 8,
       "individualFingerprints": [
-        1076431429
+        1142134081
       ],
       "status": 1,
-      "timestamp": "2019-08-01T22:32:31.793909Z",
-      "lastWriteTimeUtc": "2019-07-27T20:38:08Z",
-      "queryTimestamp": "2020-01-05T03:27:38.858497Z",
+      "timestamp": "2019-08-01T22:32:31.01285Z",
+      "lastWriteTimeUtc": "2019-07-27T20:45:39Z",
+      "queryTimestamp": "2020-01-05T03:27:38.858928Z",
       "fileCount": 1,
-      "fileSize": 17974
+      "fileSize": 10035
     },
     {
       "folderName": "Pewter-1.4.3.jar",
@@ -1486,21 +818,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.858693Z",
       "fileCount": 1,
       "fileSize": 1316286
-    },
-    {
-      "folderName": "FastFurnace-1.12.2-1.3.1.jar",
-      "fingerprint": 1142134081,
-      "fileDateHash": 3470243014,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1142134081
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.01285Z",
-      "lastWriteTimeUtc": "2019-07-27T20:45:39Z",
-      "queryTimestamp": "2020-01-05T03:27:38.858928Z",
-      "fileCount": 1,
-      "fileSize": 10035
     },
     {
       "folderName": "TheBetweenlands-3.5.4-universal.jar",
@@ -1548,21 +865,6 @@
       "fileSize": 447874
     },
     {
-      "folderName": "just-enough-harvestcraft-1.12.2-1.7.0.jar",
-      "fingerprint": 1285049129,
-      "fileDateHash": 686575999,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1285049129
-      ],
-      "status": 1,
-      "timestamp": "2019-12-27T21:02:23.053178Z",
-      "lastWriteTimeUtc": "2019-12-27T21:01:59Z",
-      "queryTimestamp": "2020-01-05T03:27:38.860048Z",
-      "fileCount": 1,
-      "fileSize": 42287
-    },
-    {
       "folderName": "betternether-0.1.8.5.jar",
       "fingerprint": 3443848473,
       "fileDateHash": 3567819278,
@@ -1576,6 +878,21 @@
       "queryTimestamp": "2020-01-05T03:27:38.860317Z",
       "fileCount": 1,
       "fileSize": 1728517
+    },
+    {
+      "folderName": "just-enough-harvestcraft-1.12.2-1.7.0.jar",
+      "fingerprint": 1285049129,
+      "fileDateHash": 686575999,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1285049129
+      ],
+      "status": 1,
+      "timestamp": "2019-12-27T21:02:23.053178Z",
+      "lastWriteTimeUtc": "2019-12-27T21:01:59Z",
+      "queryTimestamp": "2020-01-05T03:27:38.860048Z",
+      "fileCount": 1,
+      "fileSize": 42287
     },
     {
       "folderName": "Tips-1.12.2-1.0.7.jar",
@@ -1593,21 +910,6 @@
       "fileSize": 19209
     },
     {
-      "folderName": "CoFHWorld-1.12.2-1.3.1.7-universal.jar",
-      "fingerprint": 288882860,
-      "fileDateHash": 2457520955,
-      "sectionID": 8,
-      "individualFingerprints": [
-        288882860
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:30.897187Z",
-      "lastWriteTimeUtc": "2019-07-27T20:46:50Z",
-      "queryTimestamp": "2020-01-05T03:27:38.86084Z",
-      "fileCount": 1,
-      "fileSize": 532040
-    },
-    {
       "folderName": "WindowDressings_1.2.1.jar",
       "fingerprint": 3469697027,
       "fileDateHash": 1401347611,
@@ -1621,36 +923,6 @@
       "queryTimestamp": "2020-01-05T03:27:38.861067Z",
       "fileCount": 1,
       "fileSize": 1312204
-    },
-    {
-      "folderName": "tombmanypluginsthebetweenlands-1.0.0.jar",
-      "fingerprint": 3267825695,
-      "fileDateHash": 3656765975,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3267825695
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:32.050684Z",
-      "lastWriteTimeUtc": "2019-07-27T20:46:12Z",
-      "queryTimestamp": "2020-01-05T03:27:38.861429Z",
-      "fileCount": 1,
-      "fileSize": 6094
-    },
-    {
-      "folderName": "TConstruct-1.12.2-2.13.0.171.jar",
-      "fingerprint": 972669051,
-      "fileDateHash": 1683358323,
-      "sectionID": 8,
-      "individualFingerprints": [
-        972669051
-      ],
-      "status": 1,
-      "timestamp": "2019-10-16T18:16:26.517571Z",
-      "lastWriteTimeUtc": "2019-10-16T18:16:19Z",
-      "queryTimestamp": "2020-01-05T03:27:38.86171Z",
-      "fileCount": 1,
-      "fileSize": 4022370
     },
     {
       "folderName": "FTBUtilities-5.4.0.124.jar",
@@ -1668,6 +940,21 @@
       "fileSize": 424109
     },
     {
+      "folderName": "JustEnoughResources-1.12.2-0.9.2.60.jar",
+      "fingerprint": 537556958,
+      "fileDateHash": 559490386,
+      "sectionID": 8,
+      "individualFingerprints": [
+        537556958
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.068278Z",
+      "lastWriteTimeUtc": "2019-07-27T22:10:09Z",
+      "queryTimestamp": "2020-01-05T03:27:38.862704Z",
+      "fileCount": 1,
+      "fileSize": 222270
+    },
+    {
       "folderName": "foamfix-0.10.10-1.12.2.jar",
       "fingerprint": 3326311587,
       "fileDateHash": 484185733,
@@ -1683,34 +970,19 @@
       "fileSize": 201683
     },
     {
-      "folderName": "ElevatorMod-1.12.2-1.3.14.jar",
-      "fingerprint": 2428811536,
-      "fileDateHash": 3760722164,
+      "folderName": "tombmanypluginsthebetweenlands-1.0.0.jar",
+      "fingerprint": 3267825695,
+      "fileDateHash": 3656765975,
       "sectionID": 8,
       "individualFingerprints": [
-        2428811536
+        3267825695
       ],
       "status": 1,
-      "timestamp": "2019-12-27T21:01:33.196845Z",
-      "lastWriteTimeUtc": "2019-12-24T22:30:56Z",
-      "queryTimestamp": "2020-01-05T03:27:38.862423Z",
+      "timestamp": "2019-08-01T22:32:32.050684Z",
+      "lastWriteTimeUtc": "2019-07-27T20:46:12Z",
+      "queryTimestamp": "2020-01-05T03:27:38.861429Z",
       "fileCount": 1,
-      "fileSize": 108444
-    },
-    {
-      "folderName": "JustEnoughResources-1.12.2-0.9.2.60.jar",
-      "fingerprint": 537556958,
-      "fileDateHash": 559490386,
-      "sectionID": 8,
-      "individualFingerprints": [
-        537556958
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:31.068278Z",
-      "lastWriteTimeUtc": "2019-07-27T22:10:09Z",
-      "queryTimestamp": "2020-01-05T03:27:38.862704Z",
-      "fileCount": 1,
-      "fileSize": 222270
+      "fileSize": 6094
     },
     {
       "folderName": "AutoRegLib-1.3-32.jar",
@@ -1728,34 +1000,19 @@
       "fileSize": 108306
     },
     {
-      "folderName": "mysticallib-1.12.2-1.4.0.jar",
-      "fingerprint": 776734229,
-      "fileDateHash": 996188167,
+      "folderName": "TConstruct-1.12.2-2.13.0.171.jar",
+      "fingerprint": 972669051,
+      "fileDateHash": 1683358323,
       "sectionID": 8,
       "individualFingerprints": [
-        776734229
+        972669051
       ],
       "status": 1,
-      "timestamp": "2019-10-29T17:21:52.788875Z",
-      "lastWriteTimeUtc": "2019-10-29T17:21:47Z",
-      "queryTimestamp": "2020-01-05T03:27:38.863163Z",
+      "timestamp": "2019-10-16T18:16:26.517571Z",
+      "lastWriteTimeUtc": "2019-10-16T18:16:19Z",
+      "queryTimestamp": "2020-01-05T03:27:38.86171Z",
       "fileCount": 1,
-      "fileSize": 355287
-    },
-    {
-      "folderName": "tweakersconstruct-1.12.2-1.5.1.jar",
-      "fingerprint": 1443204025,
-      "fileDateHash": 1871610065,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1443204025
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:32.051764Z",
-      "lastWriteTimeUtc": "2019-07-27T22:03:02Z",
-      "queryTimestamp": "2020-01-05T03:27:38.863426Z",
-      "fileCount": 1,
-      "fileSize": 37453
+      "fileSize": 4022370
     },
     {
       "folderName": "tinkersjei-1.2.jar",
@@ -1773,6 +1030,36 @@
       "fileSize": 12255
     },
     {
+      "folderName": "tweakersconstruct-1.12.2-1.5.1.jar",
+      "fingerprint": 1443204025,
+      "fileDateHash": 1871610065,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1443204025
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:32.051764Z",
+      "lastWriteTimeUtc": "2019-07-27T22:03:02Z",
+      "queryTimestamp": "2020-01-05T03:27:38.863426Z",
+      "fileCount": 1,
+      "fileSize": 37453
+    },
+    {
+      "folderName": "stygian-1.0.4.jar",
+      "fingerprint": 733866743,
+      "fileDateHash": 313886085,
+      "sectionID": 8,
+      "individualFingerprints": [
+        733866743
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:32.046101Z",
+      "lastWriteTimeUtc": "2019-07-27T20:39:08Z",
+      "queryTimestamp": "2020-01-05T03:27:38.86494Z",
+      "fileCount": 1,
+      "fileSize": 215069
+    },
+    {
       "folderName": "TombManyGraves-1.12-4.2.0.jar",
       "fingerprint": 3719101601,
       "fileDateHash": 3656765975,
@@ -1788,19 +1075,807 @@
       "fileSize": 150657
     },
     {
-      "folderName": "Architect-MC1.12-1.2.0.6.jar",
-      "fingerprint": 2165954664,
-      "fileDateHash": 383759077,
+      "folderName": "InitialInventory-3.0.0.jar",
+      "fingerprint": 1938919746,
+      "fileDateHash": 1657862126,
       "sectionID": 8,
       "individualFingerprints": [
-        2165954664
+        1938919746
       ],
       "status": 1,
-      "timestamp": "2019-08-01T22:32:30.797717Z",
-      "lastWriteTimeUtc": "2019-07-27T20:56:19Z",
-      "queryTimestamp": "2020-01-05T03:27:38.864175Z",
+      "timestamp": "2019-08-17T04:00:49.635787Z",
+      "lastWriteTimeUtc": "2019-08-17T04:00:37Z",
+      "queryTimestamp": "2020-01-05T03:27:38.836606Z",
       "fileCount": 1,
-      "fileSize": 263474
+      "fileSize": 7863
+    },
+    {
+      "folderName": "FastWorkbench-1.12.2-1.7.3.jar",
+      "fingerprint": 2436194208,
+      "fileDateHash": 2731125681,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2436194208
+      ],
+      "status": 1,
+      "timestamp": "2019-12-14T03:49:32.980827Z",
+      "lastWriteTimeUtc": "2019-12-14T03:49:20Z",
+      "queryTimestamp": "2020-01-05T03:27:38.836151Z",
+      "fileCount": 1,
+      "fileSize": 26515
+    },
+    {
+      "folderName": "rustic-1.1.2.jar",
+      "fingerprint": 3726589320,
+      "fileDateHash": 1233181964,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3726589320
+      ],
+      "status": 1,
+      "timestamp": "2019-12-14T03:49:32.982134Z",
+      "lastWriteTimeUtc": "2019-12-14T03:48:43Z",
+      "queryTimestamp": "2020-01-05T03:27:38.837028Z",
+      "fileCount": 1,
+      "fileSize": 1358969
+    },
+    {
+      "folderName": "crafttweakerutils-0.5a.jar",
+      "fingerprint": 2866945399,
+      "fileDateHash": 1236880860,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2866945399
+      ],
+      "status": 1,
+      "timestamp": "2019-08-11T22:06:57.599091Z",
+      "lastWriteTimeUtc": "2019-08-11T20:09:07Z",
+      "queryTimestamp": "2020-01-05T03:27:38.836835Z",
+      "fileCount": 1,
+      "fileSize": 20530
+    },
+    {
+      "folderName": "Forgelin-1.8.4.jar",
+      "fingerprint": 387064965,
+      "fileDateHash": 3513634334,
+      "sectionID": 8,
+      "individualFingerprints": [
+        387064965
+      ],
+      "status": 1,
+      "timestamp": "2019-09-15T22:03:54.012116Z",
+      "lastWriteTimeUtc": "2019-09-15T22:02:12Z",
+      "queryTimestamp": "2020-01-05T03:27:38.837596Z",
+      "fileCount": 1,
+      "fileSize": 6278399
+    },
+    {
+      "folderName": "Erosion-2.2.1.jar",
+      "fingerprint": 2643068269,
+      "fileDateHash": 3453785679,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2643068269
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.99969Z",
+      "lastWriteTimeUtc": "2019-07-27T20:07:21Z",
+      "queryTimestamp": "2020-01-05T03:27:38.838543Z",
+      "fileCount": 1,
+      "fileSize": 26999
+    },
+    {
+      "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
+      "fingerprint": 699442863,
+      "fileDateHash": 3456091933,
+      "sectionID": 8,
+      "individualFingerprints": [
+        699442863
+      ],
+      "status": 1,
+      "timestamp": "2019-08-04T23:06:26.108894Z",
+      "lastWriteTimeUtc": "2019-08-04T23:05:44Z",
+      "queryTimestamp": "2020-01-05T03:27:38.838792Z",
+      "fileCount": 1,
+      "fileSize": 16612
+    },
+    {
+      "folderName": "Baubles-1.12-1.5.2.jar",
+      "fingerprint": 4247051032,
+      "fileDateHash": 4205487316,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4247051032
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.809732Z",
+      "lastWriteTimeUtc": "2019-07-27T20:47:41Z",
+      "queryTimestamp": "2020-01-05T03:27:38.839802Z",
+      "fileCount": 1,
+      "fileSize": 108450
+    },
+    {
+      "folderName": "CosmeticArmorReworked-1.12.2-v4a.jar",
+      "fingerprint": 1750257844,
+      "fileDateHash": 1499254043,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1750257844
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.909695Z",
+      "lastWriteTimeUtc": "2019-07-27T22:09:50Z",
+      "queryTimestamp": "2020-01-05T03:27:38.840481Z",
+      "fileCount": 1,
+      "fileSize": 70745
+    },
+    {
+      "folderName": "journeymap-1.12.2-5.5.6.jar",
+      "fingerprint": 1184925075,
+      "fileDateHash": 1658293322,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1184925075
+      ],
+      "status": 1,
+      "timestamp": "2019-12-27T21:01:33.249985Z",
+      "lastWriteTimeUtc": "2019-12-24T22:31:34Z",
+      "queryTimestamp": "2020-01-05T03:27:38.839503Z",
+      "fileCount": 1,
+      "fileSize": 1933605
+    },
+    {
+      "folderName": "Cathedral-1.12.2-1.9.7k.jar",
+      "fingerprint": 2044729475,
+      "fileDateHash": 1965193490,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2044729475
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.819729Z",
+      "lastWriteTimeUtc": "2019-07-27T20:37:13Z",
+      "queryTimestamp": "2020-01-05T03:27:38.839268Z",
+      "fileCount": 1,
+      "fileSize": 687265
+    },
+    {
+      "folderName": "ore_stone_variants-4.6.jar",
+      "fingerprint": 3932147302,
+      "fileDateHash": 2455288578,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3932147302
+      ],
+      "status": 1,
+      "timestamp": "2019-11-08T01:24:23.913003Z",
+      "lastWriteTimeUtc": "2019-11-08T01:23:49Z",
+      "queryTimestamp": "2020-01-05T03:27:38.840723Z",
+      "fileCount": 1,
+      "fileSize": 247527
+    },
+    {
+      "folderName": "jei_1.12.2-4.15.0.293.jar",
+      "fingerprint": 3097301870,
+      "fileDateHash": 2624381910,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3097301870
+      ],
+      "status": 1,
+      "timestamp": "2019-12-27T21:01:33.244078Z",
+      "lastWriteTimeUtc": "2019-12-24T22:32:14Z",
+      "queryTimestamp": "2020-01-05T03:27:38.840119Z",
+      "fileCount": 1,
+      "fileSize": 653044
+    },
+    {
+      "folderName": "autothirdperson-1.2.1.jar",
+      "fingerprint": 3002189840,
+      "fileDateHash": 1305193675,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3002189840
+      ],
+      "status": 1,
+      "timestamp": "2020-01-05T19:53:19.037625Z",
+      "lastWriteTimeUtc": "2020-01-05T03:31:25Z",
+      "queryTimestamp": "2020-01-05T19:53:19.28287Z",
+      "fileCount": 1,
+      "fileSize": 14060
+    },
+    {
+      "folderName": "Charm-1.12.2-1.3.6.jar",
+      "fingerprint": 2585318803,
+      "fileDateHash": 1811750174,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2585318803
+      ],
+      "status": 1,
+      "timestamp": "2019-09-02T18:00:53.57486Z",
+      "lastWriteTimeUtc": "2019-09-02T18:00:40Z",
+      "queryTimestamp": "2020-01-05T03:27:38.841963Z",
+      "fileCount": 1,
+      "fileSize": 2374765
+    },
+    {
+      "folderName": "topaddons-1.12.2-1.12.0.jar",
+      "fingerprint": 17732279,
+      "fileDateHash": 4038267026,
+      "sectionID": 8,
+      "individualFingerprints": [
+        17732279
+      ],
+      "status": 1,
+      "timestamp": "2019-11-08T01:24:23.914775Z",
+      "lastWriteTimeUtc": "2019-11-08T01:24:15Z",
+      "queryTimestamp": "2020-01-05T03:27:38.842201Z",
+      "fileCount": 1,
+      "fileSize": 241463
+    },
+    {
+      "folderName": "Botania r1.10-363.jar",
+      "fingerprint": 3763127432,
+      "fileDateHash": 2549090486,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3763127432
+      ],
+      "status": 1,
+      "timestamp": "2019-12-27T21:01:33.078093Z",
+      "lastWriteTimeUtc": "2019-12-24T22:29:03Z",
+      "queryTimestamp": "2020-01-05T03:27:38.842408Z",
+      "fileCount": 1,
+      "fileSize": 13814617
+    },
+    {
+      "folderName": "MTLib-3.0.6.jar",
+      "fingerprint": 396445966,
+      "fileDateHash": 1535731389,
+      "sectionID": 8,
+      "individualFingerprints": [
+        396445966
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.071729Z",
+      "lastWriteTimeUtc": "2019-07-27T21:22:54Z",
+      "queryTimestamp": "2020-01-05T03:27:38.8426Z",
+      "fileCount": 1,
+      "fileSize": 30002
+    },
+    {
+      "folderName": "ContentTweaker-1.12.2-4.9.1.jar",
+      "fingerprint": 4180990591,
+      "fileDateHash": 2247716974,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4180990591
+      ],
+      "status": 1,
+      "timestamp": "2019-08-11T22:06:57.589535Z",
+      "lastWriteTimeUtc": "2019-08-11T20:08:48Z",
+      "queryTimestamp": "2020-01-05T03:27:38.843286Z",
+      "fileCount": 1,
+      "fileSize": 274895
+    },
+    {
+      "folderName": "Controlling-3.0.7.jar",
+      "fingerprint": 2962360278,
+      "fileDateHash": 2645872301,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2962360278
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.902131Z",
+      "lastWriteTimeUtc": "2019-07-27T21:22:57Z",
+      "queryTimestamp": "2020-01-05T03:27:38.843041Z",
+      "fileCount": 1,
+      "fileSize": 27162
+    },
+    {
+      "folderName": "Patchouli-1.0-20.jar",
+      "fingerprint": 1352456101,
+      "fileDateHash": 627200468,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1352456101
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.088616Z",
+      "lastWriteTimeUtc": "2019-07-27T20:37:59Z",
+      "queryTimestamp": "2020-01-05T03:27:38.843892Z",
+      "fileCount": 1,
+      "fileSize": 466243
+    },
+    {
+      "folderName": "New World",
+      "fingerprint": 4072796411,
+      "fileDateHash": 604854965,
+      "sectionID": 10,
+      "individualFingerprints": [
+        114778655,
+        126809520,
+        154384527,
+        157323487,
+        276590601,
+        322988789,
+        394515569,
+        489458212,
+        489458212,
+        489458212,
+        570683746,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        981326634,
+        1033748491,
+        1150854430,
+        1581895924,
+        1654962970,
+        1884728317,
+        2038767247,
+        2061070594,
+        2353442399,
+        2353442399,
+        2353442399,
+        2356319369,
+        2358406497,
+        2474798837,
+        2636546379,
+        2808426859,
+        2914800135,
+        3134755400,
+        3266221471,
+        3459195618,
+        3471152138,
+        3954123295,
+        3954123295,
+        3984958436,
+        4084733175,
+        4213863462,
+        4239242380
+      ],
+      "status": 1,
+      "timestamp": "2019-10-28T13:36:04.127637Z",
+      "lastWriteTimeUtc": "2019-10-27T06:58:31Z",
+      "queryTimestamp": "2020-01-05T03:27:38.84346Z",
+      "fileCount": 17,
+      "fileSize": 0
+    },
+    {
+      "folderName": "tombmanygraves2api-1.12.2-1.0.0.jar",
+      "fingerprint": 2159395981,
+      "fileDateHash": 3656765975,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2159395981
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:32.049197Z",
+      "lastWriteTimeUtc": "2019-07-27T20:46:12Z",
+      "queryTimestamp": "2020-01-05T03:27:38.844158Z",
+      "fileCount": 1,
+      "fileSize": 10891
+    },
+    {
+      "folderName": "worldprimer-1.12.2-0.6.0-dev.20190814.220944.jar",
+      "fingerprint": 880580111,
+      "fileDateHash": 1990076405,
+      "sectionID": 8,
+      "individualFingerprints": [
+        880580111
+      ],
+      "status": 1,
+      "timestamp": "2019-09-21T20:28:12.346881Z",
+      "lastWriteTimeUtc": "2019-09-21T17:47:52Z",
+      "queryTimestamp": "2020-01-05T03:27:38.845065Z",
+      "fileCount": 1,
+      "fileSize": 100925
+    },
+    {
+      "folderName": "StepupFix-1.12.2-1.0.0.4.b17.jar",
+      "fingerprint": 4050330488,
+      "fileDateHash": 4009839091,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4050330488
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.154509Z",
+      "lastWriteTimeUtc": "2019-07-27T22:12:04Z",
+      "queryTimestamp": "2020-01-05T03:27:38.845857Z",
+      "fileCount": 1,
+      "fileSize": 5369
+    },
+    {
+      "folderName": "BetterFps-1.4.8.jar",
+      "fingerprint": 3051920250,
+      "fileDateHash": 2304583095,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3051920250
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.814614Z",
+      "lastWriteTimeUtc": "2019-07-27T20:55:56Z",
+      "queryTimestamp": "2020-01-05T03:27:38.845597Z",
+      "fileCount": 1,
+      "fileSize": 155196
+    },
+    {
+      "folderName": "AppleSkin-mc1.12-1.0.9.jar",
+      "fingerprint": 1708065614,
+      "fileDateHash": 735603458,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1708065614
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.796261Z",
+      "lastWriteTimeUtc": "2019-07-27T22:22:21Z",
+      "queryTimestamp": "2020-01-05T03:27:38.847545Z",
+      "fileCount": 1,
+      "fileSize": 32317
+    },
+    {
+      "folderName": "Quark-r1.6-177.jar",
+      "fingerprint": 225919850,
+      "fileDateHash": 764146980,
+      "sectionID": 8,
+      "individualFingerprints": [
+        225919850
+      ],
+      "status": 1,
+      "timestamp": "2019-08-12T19:33:16.574059Z",
+      "lastWriteTimeUtc": "2019-08-11T22:07:27Z",
+      "queryTimestamp": "2020-01-05T03:27:38.847314Z",
+      "fileCount": 1,
+      "fileSize": 3875942
+    },
+    {
+      "folderName": "QuarkOddities-1.12.2.jar",
+      "fingerprint": 4267477614,
+      "fileDateHash": 948176482,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4267477614
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.130873Z",
+      "lastWriteTimeUtc": "2019-07-27T20:03:32Z",
+      "queryTimestamp": "2020-01-05T03:27:38.84826Z",
+      "fileCount": 1,
+      "fileSize": 1556
+    },
+    {
+      "folderName": "Inspirations-1.12.2-0.2.9.jar",
+      "fingerprint": 1357893814,
+      "fileDateHash": 1348527544,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1357893814
+      ],
+      "status": 1,
+      "timestamp": "2019-12-27T21:01:33.20241Z",
+      "lastWriteTimeUtc": "2019-12-24T22:30:00Z",
+      "queryTimestamp": "2020-01-05T03:27:38.848752Z",
+      "fileCount": 1,
+      "fileSize": 842254
+    },
+    {
+      "folderName": "CraftingTweaks_1.12.2-8.1.9.jar",
+      "fingerprint": 316910584,
+      "fileDateHash": 2116869586,
+      "sectionID": 8,
+      "individualFingerprints": [
+        316910584
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.923885Z",
+      "lastWriteTimeUtc": "2019-07-27T22:09:05Z",
+      "queryTimestamp": "2020-01-05T03:27:38.849001Z",
+      "fileCount": 1,
+      "fileSize": 97854
+    },
+    {
+      "folderName": "FastLeafDecay-v14.jar",
+      "fingerprint": 1940914729,
+      "fileDateHash": 3431958698,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1940914729
+      ],
+      "status": 1,
+      "timestamp": "2019-08-16T18:08:18.328219Z",
+      "lastWriteTimeUtc": "2019-07-27T20:07:33Z",
+      "queryTimestamp": "2020-01-05T03:27:38.848487Z",
+      "fileCount": 1,
+      "fileSize": 5200
+    },
+    {
+      "folderName": "theoneprobe-1.12-1.4.28.jar",
+      "fingerprint": 2094495496,
+      "fileDateHash": 34406967,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2094495496
+      ],
+      "status": 1,
+      "timestamp": "2019-10-26T22:32:40.979431Z",
+      "lastWriteTimeUtc": "2019-10-26T22:03:44Z",
+      "queryTimestamp": "2020-01-05T03:27:38.850802Z",
+      "fileCount": 1,
+      "fileSize": 301893
+    },
+    {
+      "folderName": "StorageDrawers-1.12.2-5.4.0.jar",
+      "fingerprint": 3899192495,
+      "fileDateHash": 2814536461,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3899192495
+      ],
+      "status": 1,
+      "timestamp": "2019-09-15T22:03:54.072642Z",
+      "lastWriteTimeUtc": "2019-09-15T22:03:03Z",
+      "queryTimestamp": "2020-01-05T03:27:38.851657Z",
+      "fileCount": 1,
+      "fileSize": 604797
+    },
+    {
+      "folderName": "WitherSkeletonTweaks-1.12.2-2.6.3.jar",
+      "fingerprint": 2926245632,
+      "fileDateHash": 2366258129,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2926245632
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.792639Z",
+      "lastWriteTimeUtc": "2019-07-27T22:09:11Z",
+      "queryTimestamp": "2020-01-05T03:27:38.852487Z",
+      "fileCount": 1,
+      "fileSize": 27026
+    },
+    {
+      "folderName": "ClimaticBiomes-2.14.11-MC1.12.2.jar",
+      "fingerprint": 3624510459,
+      "fileDateHash": 1220237280,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3624510459
+      ],
+      "status": 1,
+      "timestamp": "2019-12-27T21:01:33.190444Z",
+      "lastWriteTimeUtc": "2019-12-24T22:29:37Z",
+      "queryTimestamp": "2020-01-05T03:27:38.852982Z",
+      "fileCount": 1,
+      "fileSize": 496430
+    },
+    {
+      "folderName": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
+      "fingerprint": 1941774686,
+      "fileDateHash": 2278283779,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1941774686
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.131628Z",
+      "lastWriteTimeUtc": "2019-07-27T20:46:57Z",
+      "queryTimestamp": "2020-01-05T03:27:38.854169Z",
+      "fileCount": 1,
+      "fileSize": 36278
+    },
+    {
+      "folderName": "StorageDrawersUnlimited-1.12.2-1.3.0.jar",
+      "fingerprint": 645058109,
+      "fileDateHash": 3322814755,
+      "sectionID": 8,
+      "individualFingerprints": [
+        645058109
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.16123Z",
+      "lastWriteTimeUtc": "2019-07-27T20:56:58Z",
+      "queryTimestamp": "2020-01-05T03:27:38.85326Z",
+      "fileCount": 1,
+      "fileSize": 2532173
+    },
+    {
+      "folderName": "Clumps-3.1.2.jar",
+      "fingerprint": 1290884162,
+      "fileDateHash": 270329970,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1290884162
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.888542Z",
+      "lastWriteTimeUtc": "2019-07-27T20:05:04Z",
+      "queryTimestamp": "2020-01-05T03:27:38.855113Z",
+      "fileCount": 1,
+      "fileSize": 13792
+    },
+    {
+      "folderName": "comforts-1.12.2-1.4.1.2.jar",
+      "fingerprint": 1666307785,
+      "fileDateHash": 1007935500,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1666307785
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.965665Z",
+      "lastWriteTimeUtc": "2019-07-27T20:05:12Z",
+      "queryTimestamp": "2020-01-05T03:27:38.854435Z",
+      "fileCount": 1,
+      "fileSize": 166714
+    },
+    {
+      "folderName": "N23",
+      "fingerprint": 4173609603,
+      "fileDateHash": 1827192164,
+      "sectionID": 10,
+      "individualFingerprints": [
+        154863480,
+        160204559,
+        194710194,
+        322988789,
+        377663722,
+        436625288,
+        487801290,
+        489458212,
+        489458212,
+        489458212,
+        570644070,
+        625915781,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        820411765,
+        941811541,
+        1159940674,
+        1342917789,
+        1388462866,
+        1463800281,
+        1517845614,
+        1572806564,
+        1731220206,
+        1949063563,
+        1949063563,
+        1949063563,
+        1967473074,
+        2087008565,
+        2226675487,
+        2284270762,
+        2482372446,
+        3134755400,
+        3533626746,
+        3612584667,
+        3905003013,
+        3954123295,
+        3984958436,
+        4213863462,
+        4245426118,
+        4247832602,
+        4253967522
+      ],
+      "status": 1,
+      "timestamp": "2019-12-02T19:00:32.335627Z",
+      "lastWriteTimeUtc": "2019-11-30T23:27:34Z",
+      "queryTimestamp": "2020-01-05T03:27:38.85363Z",
+      "fileCount": 16,
+      "fileSize": 0
+    },
+    {
+      "folderName": "Surge-1.12.2-2.0.77.jar",
+      "fingerprint": 4112112673,
+      "fileDateHash": 2738878105,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4112112673
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:31.182266Z",
+      "lastWriteTimeUtc": "2019-07-29T22:04:49Z",
+      "queryTimestamp": "2020-01-05T03:27:38.854663Z",
+      "fileCount": 1,
+      "fileSize": 1042621
+    },
+    {
+      "folderName": "CoralReef-2.5-1.12.2.jar",
+      "fingerprint": 2416974035,
+      "fileDateHash": 2138858343,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2416974035
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.908124Z",
+      "lastWriteTimeUtc": "2019-07-27T20:06:19Z",
+      "queryTimestamp": "2020-01-05T03:27:38.856477Z",
+      "fileCount": 1,
+      "fileSize": 73465
+    },
+    {
+      "folderName": "CraftTweaker2-1.12-4.1.20.jar",
+      "fingerprint": 4244191030,
+      "fileDateHash": 2970325375,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4244191030
+      ],
+      "status": 1,
+      "timestamp": "2019-12-14T03:47:59.634772Z",
+      "lastWriteTimeUtc": "2019-12-08T18:37:26Z",
+      "queryTimestamp": "2020-01-05T03:27:38.857862Z",
+      "fileCount": 1,
+      "fileSize": 1363036
+    },
+    {
+      "folderName": "SoundFilters-0.11_for_1.12.jar",
+      "fingerprint": 3728327028,
+      "fileDateHash": 577046016,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3728327028
+      ],
+      "status": 1,
+      "timestamp": "2020-01-05T19:53:19.032435Z",
+      "lastWriteTimeUtc": "2020-01-05T03:29:23Z",
+      "queryTimestamp": "2020-01-05T19:53:19.301893Z",
+      "fileCount": 1,
+      "fileSize": 42947
+    },
+    {
+      "folderName": "CoFHWorld-1.12.2-1.3.1.7-universal.jar",
+      "fingerprint": 288882860,
+      "fileDateHash": 2457520955,
+      "sectionID": 8,
+      "individualFingerprints": [
+        288882860
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.897187Z",
+      "lastWriteTimeUtc": "2019-07-27T20:46:50Z",
+      "queryTimestamp": "2020-01-05T03:27:38.86084Z",
+      "fileCount": 1,
+      "fileSize": 532040
+    },
+    {
+      "folderName": "ElevatorMod-1.12.2-1.3.14.jar",
+      "fingerprint": 2428811536,
+      "fileDateHash": 3760722164,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2428811536
+      ],
+      "status": 1,
+      "timestamp": "2019-12-27T21:01:33.196845Z",
+      "lastWriteTimeUtc": "2019-12-24T22:30:56Z",
+      "queryTimestamp": "2020-01-05T03:27:38.862423Z",
+      "fileCount": 1,
+      "fileSize": 108444
+    },
+    {
+      "folderName": "mysticallib-1.12.2-1.4.0.jar",
+      "fingerprint": 776734229,
+      "fileDateHash": 996188167,
+      "sectionID": 8,
+      "individualFingerprints": [
+        776734229
+      ],
+      "status": 1,
+      "timestamp": "2019-10-29T17:21:52.788875Z",
+      "lastWriteTimeUtc": "2019-10-29T17:21:47Z",
+      "queryTimestamp": "2020-01-05T03:27:38.863163Z",
+      "fileCount": 1,
+      "fileSize": 355287
     },
     {
       "folderName": "Vials-MC1.12-1.2.1.5.jar",
@@ -1818,6 +1893,21 @@
       "fileSize": 57282
     },
     {
+      "folderName": "Architect-MC1.12-1.2.0.6.jar",
+      "fingerprint": 2165954664,
+      "fileDateHash": 383759077,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2165954664
+      ],
+      "status": 1,
+      "timestamp": "2019-08-01T22:32:30.797717Z",
+      "lastWriteTimeUtc": "2019-07-27T20:56:19Z",
+      "queryTimestamp": "2020-01-05T03:27:38.864175Z",
+      "fileCount": 1,
+      "fileSize": 263474
+    },
+    {
       "folderName": "future-mc-0.1.13.jar",
       "fingerprint": 2034647773,
       "fileDateHash": 3739843198,
@@ -1831,25 +1921,10 @@
       "queryTimestamp": "2020-01-05T03:27:38.864718Z",
       "fileCount": 1,
       "fileSize": 4822482
-    },
-    {
-      "folderName": "stygian-1.0.4.jar",
-      "fingerprint": 733866743,
-      "fileDateHash": 313886085,
-      "sectionID": 8,
-      "individualFingerprints": [
-        733866743
-      ],
-      "status": 1,
-      "timestamp": "2019-08-01T22:32:32.046101Z",
-      "lastWriteTimeUtc": "2019-07-27T20:39:08Z",
-      "queryTimestamp": "2020-01-05T03:27:38.86494Z",
-      "fileCount": 1,
-      "fileSize": 215069
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-01-05T03:27:39.13727Z",
+  "lastPreviousMatchUpdate": "2020-01-05T19:53:19.594442Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -2033,14 +2108,14 @@
       "addonID": 311377,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2845082,
-        "displayName": "betternether-0.1.8.5-1.12.2",
-        "fileName": "betternether-0.1.8.5.jar",
-        "fileDate": "2019-12-19T01:16:20.59Z",
-        "fileLength": 1728517,
+        "id": 2859893,
+        "displayName": "betternether-0.1.8.6-1.12.2",
+        "fileName": "betternether-0.1.8.6.jar",
+        "fileDate": "2020-01-14T00:59:54.427Z",
+        "fileLength": 1769238,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2845/82/betternether-0.1.8.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2859/893/betternether-0.1.8.6.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -2055,12 +2130,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2358231847,
+            "fingerprint": 120231782,
             "type": 0
           },
           {
             "foldername": "paulevs",
-            "fingerprint": 3169526638,
+            "fingerprint": 1892122797,
             "type": 0
           },
           {
@@ -2075,16 +2150,21 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1595183144,
+            "fingerprint": 4157045017,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 614797477,
             "type": 0
+          },
+          {
+            "foldername": "Thumbs.db",
+            "fingerprint": 2899142279,
+            "type": 0
           }
         ],
-        "packageFingerprint": 3443848473,
+        "packageFingerprint": 1326824199,
         "gameVersion": [
           "1.12.2"
         ],
@@ -2097,12 +2177,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "betternether-0.1.8.5.jar"
+        "FileNameOnDisk": "betternether-0.1.8.6.jar"
       },
       "dateInstalled": "2019-12-08T18:40:25.330391Z",
-      "dateUpdated": "2019-12-24T22:29:11.497478Z",
-      "dateLastUpdateAttempted": "2019-12-24T22:29:11.497478Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:29:03.557835Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:29:03.557835Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2754,51 +2834,46 @@
       "addonID": 328115,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2788954,
-        "displayName": "DocumentYourModMod-1.2.0.jar",
-        "fileName": "DocumentYourModMod-1.2.0.jar",
-        "fileDate": "2019-09-18T18:36:12.413Z",
-        "fileLength": 321219,
+        "id": 2868781,
+        "displayName": "DocumentYourModMod-2.0.0.jar",
+        "fileName": "DocumentYourModMod-2.0.0.jar",
+        "fileDate": "2020-01-25T09:57:07.62Z",
+        "fileLength": 725763,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2788/954/DocumentYourModMod-1.2.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2868/781/DocumentYourModMod-2.0.0.jar",
         "isAlternate": false,
-        "alternateFileId": 2788955,
+        "alternateFileId": 0,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 338869952,
+            "fingerprint": 3378488591,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 761821517,
-            "type": 0
-          },
-          {
-            "foldername": "r",
-            "fingerprint": 963531337,
+            "fingerprint": 3985137295,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 302614830,
+            "fingerprint": 49284391,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1931309549,
+            "fingerprint": 2386870209,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
+            "fingerprint": 911730366,
             "type": 0
           }
         ],
-        "packageFingerprint": 656907207,
+        "packageFingerprint": 1027507591,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -2812,12 +2887,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "DocumentYourModMod-1.2.0.jar"
+        "FileNameOnDisk": "DocumentYourModMod-2.0.0.jar"
       },
       "dateInstalled": "2019-10-29T19:53:05.528927Z",
-      "dateUpdated": "2019-10-29T19:53:05.531084Z",
-      "dateLastUpdateAttempted": "2019-10-29T19:53:05.531084Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:31:17.99767Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:31:17.99767Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3293,14 +3368,14 @@
       "addonID": 295319,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2687750,
-        "displayName": "walljump-1.12.2-1.2.3.jar",
-        "fileName": "walljump-1.12.2-1.2.3.jar",
-        "fileDate": "2019-03-16T01:04:30.787Z",
-        "fileLength": 28913,
+        "id": 2865090,
+        "displayName": "walljump-1.12.2-1.3.2.jar",
+        "fileName": "walljump-1.12.2-1.3.2.jar",
+        "fileDate": "2020-01-21T09:51:53.39Z",
+        "fileLength": 83768,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2687/750/walljump-1.12.2-1.2.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2865/90/walljump-1.12.2-1.3.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -3308,34 +3383,40 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3429866741,
+            "fingerprint": 1546802661,
             "type": 0
           },
           {
             "foldername": "genandnic",
-            "fingerprint": 1007015094,
+            "fingerprint": 4031682635,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2904695296,
+            "fingerprint": 1650349095,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2900970866,
+            "fingerprint": 3190921512,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 1600518765,
             "type": 0
+          },
+          {
+            "foldername": "walljump.png",
+            "fingerprint": 4263641111,
+            "type": 0
           }
         ],
-        "packageFingerprint": 3283941897,
+        "packageFingerprint": 2388595289,
         "gameVersion": [
           "1.12",
           "1.12.1",
+          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -3347,11 +3428,11 @@
         "gameVersionDateReleased": "2017-06-07T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "walljump-1.12.2-1.2.3.jar"
+        "FileNameOnDisk": "walljump-1.12.2-1.3.2.jar"
       },
       "dateInstalled": "2020-01-05T03:30:56.653732Z",
-      "dateUpdated": "2020-01-05T03:30:56.654378Z",
-      "dateLastUpdateAttempted": "2020-01-05T03:30:56.654378Z",
+      "dateUpdated": "2020-01-26T00:38:12.168978Z",
+      "dateLastUpdateAttempted": "2020-01-26T00:38:12.168978Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3361,7 +3442,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 294213,
@@ -3453,14 +3534,14 @@
       "addonID": 245755,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2734498,
-        "displayName": "Waystones_1.12.2-4.0.72.jar",
-        "fileName": "Waystones_1.12.2-4.0.72.jar",
-        "fileDate": "2019-07-02T19:46:58.937Z",
-        "fileLength": 175462,
+        "id": 2859589,
+        "displayName": "Waystones_1.12.2-4.1.0.jar",
+        "fileName": "Waystones_1.12.2-4.1.0.jar",
+        "fileDate": "2020-01-13T16:08:12.16Z",
+        "fileLength": 178994,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2734/498/Waystones_1.12.2-4.0.72.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2859/589/Waystones_1.12.2-4.1.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -3468,26 +3549,26 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2638297073,
+            "fingerprint": 4243566609,
             "type": 0
           },
           {
             "foldername": "net",
-            "fingerprint": 2754833938,
+            "fingerprint": 393241158,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3296299001,
+            "fingerprint": 1748606927,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 585900315,
+            "fingerprint": 3073931083,
             "type": 0
           }
         ],
-        "packageFingerprint": 3152411825,
+        "packageFingerprint": 1833513447,
         "gameVersion": [
           "1.12.2"
         ],
@@ -3500,12 +3581,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Waystones_1.12.2-4.0.72.jar"
+        "FileNameOnDisk": "Waystones_1.12.2-4.1.0.jar"
       },
       "dateInstalled": "2019-07-27T22:11:24.05505Z",
-      "dateUpdated": "2019-07-27T22:11:24.057622Z",
-      "dateLastUpdateAttempted": "2019-07-27T22:11:24.057622Z",
-      "status": 5,
+      "dateUpdated": "2020-01-26T00:37:05.91993Z",
+      "dateLastUpdateAttempted": "2020-01-26T00:37:05.91993Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4865,14 +4946,14 @@
       "addonID": 322159,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2734270,
-        "displayName": "Not Enough Cats v1.2.1 for JE 1.12.2",
-        "fileName": "NotEnoughCats-1.12.2-1.2.1.jar",
-        "fileDate": "2019-07-02T07:58:59.993Z",
-        "fileLength": 462335,
+        "id": 2865831,
+        "displayName": "Not Enough Cats v1.4.0a for JE 1.12.2",
+        "fileName": "NotEnoughCats-1.12.2-1.4.0a.jar",
+        "fileDate": "2020-01-22T15:46:46.54Z",
+        "fileLength": 544458,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2734/270/NotEnoughCats-1.12.2-1.2.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2865/831/NotEnoughCats-1.12.2-1.4.0a.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -4880,17 +4961,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3913294305,
+            "fingerprint": 7683690,
             "type": 0
           },
           {
             "foldername": "astrotibs",
-            "fingerprint": 3529266515,
+            "fingerprint": 2218367610,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2368293035,
+            "fingerprint": 1384609303,
             "type": 0
           },
           {
@@ -4904,7 +4985,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3786036098,
+        "packageFingerprint": 1823256151,
         "gameVersion": [
           "1.12.2"
         ],
@@ -4917,12 +4998,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "NotEnoughCats-1.12.2-1.2.1.jar"
+        "FileNameOnDisk": "NotEnoughCats-1.12.2-1.4.0a.jar"
       },
       "dateInstalled": "2019-07-27T20:37:15.448767Z",
-      "dateUpdated": "2019-07-27T20:37:15.45033Z",
-      "dateLastUpdateAttempted": "2019-07-27T20:37:15.45033Z",
-      "status": 5,
+      "dateUpdated": "2020-01-26T00:39:25.481898Z",
+      "dateLastUpdateAttempted": "2020-01-26T00:39:25.481898Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5083,14 +5164,14 @@
       "addonID": 282623,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2727329,
-        "displayName": "tweakersconstruct-1.12.2-1.5.1.jar",
-        "fileName": "tweakersconstruct-1.12.2-1.5.1.jar",
-        "fileDate": "2019-06-20T19:04:58.373Z",
-        "fileLength": 37453,
+        "id": 2863873,
+        "displayName": "tweakersconstruct-1.12.2-1.5.2.jar",
+        "fileName": "tweakersconstruct-1.12.2-1.5.2.jar",
+        "fileDate": "2020-01-19T15:39:24.6Z",
+        "fileLength": 35972,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2727/329/tweakersconstruct-1.12.2-1.5.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2863/873/tweakersconstruct-1.12.2-1.5.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -5117,27 +5198,28 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3005404425,
+            "fingerprint": 55034202,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 99144403,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3230753203,
+            "fingerprint": 275126197,
             "type": 0
           },
           {
             "foldername": "tweacon_logo.png",
             "fingerprint": 2082158031,
             "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2910026867,
+            "type": 0
           }
         ],
-        "packageFingerprint": 1443204025,
+        "packageFingerprint": 2468566065,
         "gameVersion": [
+          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -5149,12 +5231,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "tweakersconstruct-1.12.2-1.5.1.jar"
+        "FileNameOnDisk": "tweakersconstruct-1.12.2-1.5.2.jar"
       },
       "dateInstalled": "2019-07-27T22:03:02.587185Z",
-      "dateUpdated": "2019-07-27T22:03:02.589341Z",
-      "dateLastUpdateAttempted": "2019-07-27T22:03:02.589341Z",
-      "status": 5,
+      "dateUpdated": "2020-01-26T00:37:37.559479Z",
+      "dateLastUpdateAttempted": "2020-01-26T00:37:37.559479Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5328,14 +5410,14 @@
       "addonID": 277064,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2817910,
-        "displayName": "mysticallib-1.12.2-1.4.0.jar",
-        "fileName": "mysticallib-1.12.2-1.4.0.jar",
-        "fileDate": "2019-10-28T12:15:08.113Z",
-        "fileLength": 355287,
+        "id": 2865499,
+        "displayName": "mysticallib-1.12.2-1.6.0.jar",
+        "fileName": "mysticallib-1.12.2-1.6.0.jar",
+        "fileDate": "2020-01-22T00:34:05.577Z",
+        "fileLength": 359290,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2817/910/mysticallib-1.12.2-1.4.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2865/499/mysticallib-1.12.2-1.6.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5343,12 +5425,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2620318324,
+            "fingerprint": 698618610,
             "type": 0
           },
           {
             "foldername": "epicsquid",
-            "fingerprint": 1898094455,
+            "fingerprint": 597503867,
             "type": 0
           },
           {
@@ -5367,7 +5449,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 776734229,
+        "packageFingerprint": 3221067918,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -5381,12 +5463,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "mysticallib-1.12.2-1.4.0.jar"
+        "FileNameOnDisk": "mysticallib-1.12.2-1.6.0.jar"
       },
       "dateInstalled": "2019-09-02T17:58:04.004527Z",
-      "dateUpdated": "2019-10-29T17:21:47.71835Z",
-      "dateLastUpdateAttempted": "2019-10-29T17:21:47.71835Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:32:22.437391Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:32:22.437391Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6540,14 +6622,14 @@
       "addonID": 250398,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2731319,
-        "displayName": "Controlling-3.0.7",
-        "fileName": "Controlling-3.0.7.jar",
-        "fileDate": "2019-06-27T09:25:29.777Z",
-        "fileLength": 27162,
+        "id": 2857064,
+        "displayName": "Controlling-3.0.8",
+        "fileName": "Controlling-3.0.8.jar",
+        "fileDate": "2020-01-09T01:24:27.037Z",
+        "fileLength": 28487,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2857/64/Controlling-3.0.8.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -6555,26 +6637,26 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3475994140,
+            "fingerprint": 2100094713,
             "type": 0
           },
           {
             "foldername": "us",
-            "fingerprint": 2410164597,
+            "fingerprint": 134494426,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1022131806,
+            "fingerprint": 866053289,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3193961234,
+            "fingerprint": 2156002409,
             "type": 0
           }
         ],
-        "packageFingerprint": 2962360278,
+        "packageFingerprint": 4162122206,
         "gameVersion": [
           "1.12.2"
         ],
@@ -6587,12 +6669,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Controlling-3.0.7.jar"
+        "FileNameOnDisk": "Controlling-3.0.8.jar"
       },
       "dateInstalled": "2019-07-27T21:22:57.874553Z",
-      "dateUpdated": "2019-07-27T21:22:57.875706Z",
-      "dateLastUpdateAttempted": "2019-07-27T21:22:57.875706Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:29:51.865331Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:29:51.865331Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6748,23 +6830,17 @@
       "addonID": 231484,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2733516,
-        "displayName": "CookingForBlockheads_1.12.2-6.4.71.jar",
-        "fileName": "CookingForBlockheads_1.12.2-6.4.71.jar",
-        "fileDate": "2019-06-30T20:46:33.25Z",
-        "fileLength": 591592,
+        "id": 2862651,
+        "displayName": "CookingForBlockheads_1.12.2-6.5.0.jar",
+        "fileName": "CookingForBlockheads_1.12.2-6.5.0.jar",
+        "fileDate": "2020-01-17T19:13:26.813Z",
+        "fileLength": 595301,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2733/516/CookingForBlockheads_1.12.2-6.4.71.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2862/651/CookingForBlockheads_1.12.2-6.5.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 242247,
-            "type": 2,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 222348,
@@ -6773,13 +6849,19 @@
           },
           {
             "id": 0,
-            "addonId": 221857,
+            "addonId": 235328,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 235328,
+            "addonId": 242247,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 221857,
             "type": 2,
             "fileId": 0
           }
@@ -6793,21 +6875,21 @@
           },
           {
             "foldername": "net",
-            "fingerprint": 3467283190,
+            "fingerprint": 2347650828,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 968977143,
+            "fingerprint": 2987210703,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1915810073,
+            "fingerprint": 1234368608,
             "type": 0
           }
         ],
-        "packageFingerprint": 1108835506,
+        "packageFingerprint": 1328269960,
         "gameVersion": [
           "1.12.2"
         ],
@@ -6820,12 +6902,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CookingForBlockheads_1.12.2-6.4.71.jar"
+        "FileNameOnDisk": "CookingForBlockheads_1.12.2-6.5.0.jar"
       },
       "dateInstalled": "2019-07-27T21:23:26.780616Z",
-      "dateUpdated": "2019-07-27T21:23:26.782268Z",
-      "dateLastUpdateAttempted": "2019-07-27T21:23:26.782268Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:30:30.086218Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:30:30.086218Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6894,7 +6976,7 @@
       "dateInstalled": "2020-01-05T03:28:46.415414Z",
       "dateUpdated": "2020-01-05T03:28:46.423025Z",
       "dateLastUpdateAttempted": "2020-01-05T03:28:46.423025Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6903,7 +6985,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 253211,
@@ -7747,27 +7829,27 @@
       "addonID": 223735,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2690354,
-        "displayName": "Aroma1997Core-1.12.2-2.0.0.2.b165.jar",
-        "fileName": "Aroma1997Core-1.12.2-2.0.0.2.b165.jar",
-        "fileDate": "2019-03-22T16:02:55.213Z",
-        "fileLength": 398657,
+        "id": 2855100,
+        "displayName": "Aroma1997Core-1.12.2-2.0.0.2.b166.jar",
+        "fileName": "Aroma1997Core-1.12.2-2.0.0.2.b166.jar",
+        "fileDate": "2020-01-05T15:13:01.293Z",
+        "fileLength": 398654,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2690/354/Aroma1997Core-1.12.2-2.0.0.2.b165.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2855/100/Aroma1997Core-1.12.2-2.0.0.2.b166.jar",
         "isAlternate": false,
-        "alternateFileId": 2690355,
+        "alternateFileId": 2855101,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1761576359,
+            "fingerprint": 1015832499,
             "type": 0
           },
           {
             "foldername": "aroma1997",
-            "fingerprint": 1078132392,
+            "fingerprint": 3977089398,
             "type": 0
           },
           {
@@ -7777,7 +7859,7 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1223674251,
+            "fingerprint": 823028474,
             "type": 0
           },
           {
@@ -7786,7 +7868,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2632828997,
+        "packageFingerprint": 1846707856,
         "gameVersion": [
           "1.12",
           "1.12.1",
@@ -7801,12 +7883,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Aroma1997Core-1.12.2-2.0.0.2.b165.jar"
+        "FileNameOnDisk": "Aroma1997Core-1.12.2-2.0.0.2.b166.jar"
       },
       "dateInstalled": "2019-07-27T22:12:04.001343Z",
-      "dateUpdated": "2019-07-27T22:12:04.002733Z",
-      "dateLastUpdateAttempted": "2019-07-27T22:12:04.002733Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:28:07.404265Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:28:07.404265Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7876,7 +7958,7 @@
       "dateInstalled": "2020-01-05T03:31:25.368295Z",
       "dateUpdated": "2020-01-05T03:31:25.369103Z",
       "dateLastUpdateAttempted": "2020-01-05T03:31:25.369103Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7885,7 +7967,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 252145,
@@ -8181,14 +8263,14 @@
       "addonID": 247135,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2733526,
-        "displayName": "RefinedRelocation_1.12.2-4.2.36.jar",
-        "fileName": "RefinedRelocation_1.12.2-4.2.36.jar",
-        "fileDate": "2019-06-30T20:58:48.207Z",
-        "fileLength": 551397,
+        "id": 2863241,
+        "displayName": "RefinedRelocation_1.12.2-4.2.37.jar",
+        "fileName": "RefinedRelocation_1.12.2-4.2.37.jar",
+        "fileDate": "2020-01-18T16:33:10.133Z",
+        "fileLength": 553728,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2733/526/RefinedRelocation_1.12.2-4.2.36.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2863/241/RefinedRelocation_1.12.2-4.2.37.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8201,21 +8283,21 @@
           },
           {
             "foldername": "net",
-            "fingerprint": 2875335850,
+            "fingerprint": 618935609,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 52694984,
+            "fingerprint": 272991047,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2865194317,
+            "fingerprint": 2221418785,
             "type": 0
           }
         ],
-        "packageFingerprint": 3971770836,
+        "packageFingerprint": 2107012573,
         "gameVersion": [
           "1.12.2"
         ],
@@ -8228,12 +8310,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "RefinedRelocation_1.12.2-4.2.36.jar"
+        "FileNameOnDisk": "RefinedRelocation_1.12.2-4.2.37.jar"
       },
       "dateInstalled": "2019-08-31T20:48:19.910578Z",
-      "dateUpdated": "2019-08-31T20:48:19.923411Z",
-      "dateLastUpdateAttempted": "2019-08-31T20:48:19.923411Z",
-      "status": 5,
+      "dateUpdated": "2020-01-26T00:39:36.199119Z",
+      "dateLastUpdateAttempted": "2020-01-26T00:39:36.199119Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8869,14 +8951,14 @@
       "addonID": 258911,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2788426,
-        "displayName": "worldprimer-1.12.2-0.6.0-dev.20190814.220944.jar",
-        "fileName": "worldprimer-1.12.2-0.6.0-dev.20190814.220944.jar",
-        "fileDate": "2019-09-17T20:47:25.67Z",
-        "fileLength": 100925,
-        "releaseType": 2,
+        "id": 2866063,
+        "displayName": "worldprimer-1.12.2-0.6.0-dev.20200122.211517.jar",
+        "fileName": "worldprimer-1.12.2-0.6.0-dev.20200122.211517.jar",
+        "fileDate": "2020-01-22T22:05:44.567Z",
+        "fileLength": 101191,
+        "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2788/426/worldprimer-1.12.2-0.6.0-dev.20190814.220944.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2866/63/worldprimer-1.12.2-0.6.0-dev.20200122.211517.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8884,7 +8966,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1388920407,
+            "fingerprint": 2066480237,
             "type": 0
           },
           {
@@ -8894,12 +8976,12 @@
           },
           {
             "foldername": "fi",
-            "fingerprint": 2133036280,
+            "fingerprint": 313657379,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3291882232,
+            "fingerprint": 534679343,
             "type": 0
           },
           {
@@ -8908,7 +8990,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 880580111,
+        "packageFingerprint": 667950992,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -8922,12 +9004,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "worldprimer-1.12.2-0.6.0-dev.20190814.220944.jar"
+        "FileNameOnDisk": "worldprimer-1.12.2-0.6.0-dev.20200122.211517.jar"
       },
       "dateInstalled": "2019-07-27T23:15:19.872937Z",
-      "dateUpdated": "2019-09-21T17:47:52.312103Z",
-      "dateLastUpdateAttempted": "2019-09-21T17:47:52.312103Z",
-      "status": 5,
+      "dateUpdated": "2020-01-26T00:36:26.833933Z",
+      "dateLastUpdateAttempted": "2020-01-26T00:36:26.833933Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9320,14 +9402,14 @@
       "addonID": 297361,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2845131,
-        "displayName": "ClimaticBiomes-2.14.11-MC1.12.2.jar",
-        "fileName": "ClimaticBiomes-2.14.11-MC1.12.2.jar",
-        "fileDate": "2019-12-19T03:32:42.653Z",
-        "fileLength": 496430,
+        "id": 2866327,
+        "displayName": "ClimaticBiomes-2.14.14-MC1.12.2.jar",
+        "fileName": "ClimaticBiomes-2.14.14-MC1.12.2.jar",
+        "fileDate": "2020-01-23T04:58:25.94Z",
+        "fileLength": 508054,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2845/131/ClimaticBiomes-2.14.11-MC1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2866/327/ClimaticBiomes-2.14.14-MC1.12.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -9335,12 +9417,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2436018886,
+            "fingerprint": 419584330,
             "type": 0
           },
           {
             "foldername": "jaredbgreat",
-            "fingerprint": 1143001297,
+            "fingerprint": 4154553818,
             "type": 0
           },
           {
@@ -9350,21 +9432,26 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 3600726826,
+            "fingerprint": 2353563357,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1870327335,
+            "fingerprint": 125349764,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 3273911401,
             "type": 0
+          },
+          {
+            "foldername": "cbico.png",
+            "fingerprint": 3791428034,
+            "type": 0
           }
         ],
-        "packageFingerprint": 3624510459,
+        "packageFingerprint": 3827642725,
         "gameVersion": [
           "1.12.2"
         ],
@@ -9374,15 +9461,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ClimaticBiomes-2.14.11-MC1.12.2.jar"
+        "FileNameOnDisk": "ClimaticBiomes-2.14.14-MC1.12.2.jar"
       },
       "dateInstalled": "2019-07-30T18:31:12.351393Z",
-      "dateUpdated": "2019-12-24T22:29:37.75511Z",
-      "dateLastUpdateAttempted": "2019-12-24T22:29:37.75511Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:29:31.493052Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:29:31.493052Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9861,46 +9948,46 @@
       "addonID": 243363,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2835615,
-        "displayName": "The Betweenlands v3.5.4",
-        "fileName": "TheBetweenlands-3.5.4-universal.jar",
-        "fileDate": "2019-12-02T00:57:46.85Z",
-        "fileLength": 89339531,
+        "id": 2864555,
+        "displayName": "The Betweenlands v3.5.6",
+        "fileName": "TheBetweenlands-3.5.6-universal.jar",
+        "fileDate": "2020-01-20T13:55:49.59Z",
+        "fileLength": 89380326,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2835/615/TheBetweenlands-3.5.4-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2864/555/TheBetweenlands-3.5.6-universal.jar",
         "isAlternate": false,
-        "alternateFileId": 2835623,
+        "alternateFileId": 2864556,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2404646090,
+            "fingerprint": 3505329770,
             "type": 0
           },
           {
-            "foldername": "TheBetweenlands-3.5.4-core.jar",
-            "fingerprint": 1519240477,
+            "foldername": "TheBetweenlands-3.5.6-core.jar",
+            "fingerprint": 283231784,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1113537821,
+            "fingerprint": 245162492,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 263778012,
+            "fingerprint": 1020293616,
             "type": 0
           },
           {
             "foldername": "thebetweenlands",
-            "fingerprint": 2628692842,
+            "fingerprint": 2865660134,
             "type": 0
           }
         ],
-        "packageFingerprint": 1588987198,
+        "packageFingerprint": 1971827772,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -9914,12 +10001,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "TheBetweenlands-3.5.4-universal.jar"
+        "FileNameOnDisk": "TheBetweenlands-3.5.6-universal.jar"
       },
       "dateInstalled": "2019-07-27T20:46:07.050927Z",
-      "dateUpdated": "2019-12-02T20:47:39.961364Z",
-      "dateLastUpdateAttempted": "2019-12-02T20:47:39.961364Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:27:52.435077Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:27:52.435077Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10009,16 +10096,16 @@
       "addonID": 32274,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2844789,
-        "displayName": "journeymap-1.12.2-5.5.6",
-        "fileName": "journeymap-1.12.2-5.5.6.jar",
-        "fileDate": "2019-12-18T14:31:23.887Z",
-        "fileLength": 1933605,
+        "id": 2866097,
+        "displayName": "journeymap-1.12.2-5.5.7",
+        "fileName": "journeymap-1.12.2-5.5.7.jar",
+        "fileDate": "2020-01-22T22:47:31.667Z",
+        "fileLength": 1934134,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2844/789/journeymap-1.12.2-5.5.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2866/97/journeymap-1.12.2-5.5.7.jar",
         "isAlternate": false,
-        "alternateFileId": 2844790,
+        "alternateFileId": 2866098,
         "dependencies": [
           {
             "id": 0,
@@ -10031,7 +10118,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 314996738,
+            "fingerprint": 1169446077,
             "type": 0
           },
           {
@@ -10041,7 +10128,7 @@
           },
           {
             "foldername": "journeymap",
-            "fingerprint": 3591818639,
+            "fingerprint": 460967674,
             "type": 0
           },
           {
@@ -10066,16 +10153,16 @@
           },
           {
             "foldername": "license.txt",
-            "fingerprint": 59702107,
+            "fingerprint": 4153114787,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2807992006,
+            "fingerprint": 3627147874,
             "type": 0
           }
         ],
-        "packageFingerprint": 1184925075,
+        "packageFingerprint": 3942248045,
         "gameVersion": [
           "1.12.2"
         ],
@@ -10088,12 +10175,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "journeymap-1.12.2-5.5.6.jar"
+        "FileNameOnDisk": "journeymap-1.12.2-5.5.7.jar"
       },
       "dateInstalled": "2019-07-27T20:03:10.423267Z",
-      "dateUpdated": "2019-12-24T22:31:34.102988Z",
-      "dateLastUpdateAttempted": "2019-12-24T22:31:34.102988Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:31:56.203161Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:31:56.203161Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10160,7 +10247,7 @@
       "dateInstalled": "2020-01-05T03:31:17.040636Z",
       "dateUpdated": "2020-01-05T03:31:17.041294Z",
       "dateLastUpdateAttempted": "2020-01-05T03:31:17.041294Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10169,26 +10256,26 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 241721,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2757379,
-        "displayName": "AstralSorcery-1.12.2-1.10.20.jar",
-        "fileName": "astralsorcery-1.12.2-1.10.20.jar",
-        "fileDate": "2019-08-08T20:56:43.137Z",
-        "fileLength": 24973981,
+        "id": 2864069,
+        "displayName": "AstralSorcery-1.12.2-1.10.21.jar",
+        "fileName": "astralsorcery-1.12.2-1.10.21.jar",
+        "fileDate": "2020-01-19T19:06:21.523Z",
+        "fileLength": 24974820,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2757/379/astralsorcery-1.12.2-1.10.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2864/69/astralsorcery-1.12.2-1.10.21.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 267602,
+            "addonId": 223628,
             "type": 2,
             "fileId": 0
           },
@@ -10200,7 +10287,7 @@
           },
           {
             "id": 0,
-            "addonId": 223628,
+            "addonId": 267602,
             "type": 2,
             "fileId": 0
           }
@@ -10209,7 +10296,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2057186413,
+            "fingerprint": 3137037124,
             "type": 0
           },
           {
@@ -10219,16 +10306,16 @@
           },
           {
             "foldername": "hellfirepvp",
-            "fingerprint": 3826415242,
+            "fingerprint": 3432629832,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 579653321,
+            "fingerprint": 3644116544,
             "type": 0
           }
         ],
-        "packageFingerprint": 630155927,
+        "packageFingerprint": 1791083700,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -10242,12 +10329,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "astralsorcery-1.12.2-1.10.20.jar"
+        "FileNameOnDisk": "astralsorcery-1.12.2-1.10.21.jar"
       },
       "dateInstalled": "2019-07-27T20:47:43.273931Z",
-      "dateUpdated": "2019-08-09T20:31:50.275838Z",
-      "dateLastUpdateAttempted": "2019-08-09T20:31:50.275838Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:28:50.512667Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:28:50.512667Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10262,14 +10349,14 @@
       "addonID": 282940,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
-        "id": 2838234,
-        "displayName": "mysticalworld-1.12.2-1.6.1.jar",
-        "fileName": "mysticalworld-1.12.2-1.6.1.jar",
-        "fileDate": "2019-12-08T05:30:43.31Z",
-        "fileLength": 2746357,
+        "id": 2865502,
+        "displayName": "mysticalworld-1.12.2-1.7.1.jar",
+        "fileName": "mysticalworld-1.12.2-1.7.1.jar",
+        "fileDate": "2020-01-22T00:35:58.17Z",
+        "fileLength": 2758633,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2838/234/mysticalworld-1.12.2-1.6.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2865/502/mysticalworld-1.12.2-1.7.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -10278,28 +10365,34 @@
             "addonId": 277064,
             "type": 3,
             "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306770,
+            "type": 3,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1752513635,
+            "fingerprint": 1229693394,
             "type": 0
           },
           {
             "foldername": "epicsquid",
-            "fingerprint": 2892199588,
+            "fingerprint": 4048717329,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1598396697,
+            "fingerprint": 3585645912,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 350422900,
+            "fingerprint": 208130382,
             "type": 0
           },
           {
@@ -10313,7 +10406,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 468542988,
+        "packageFingerprint": 4134837460,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -10327,12 +10420,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "mysticalworld-1.12.2-1.6.1.jar"
+        "FileNameOnDisk": "mysticalworld-1.12.2-1.7.1.jar"
       },
       "dateInstalled": "2019-09-02T17:58:04.269224Z",
-      "dateUpdated": "2019-12-08T18:37:46.901476Z",
-      "dateLastUpdateAttempted": "2019-12-08T18:37:46.901476Z",
-      "status": 5,
+      "dateUpdated": "2020-01-25T21:32:25.987967Z",
+      "dateLastUpdateAttempted": "2020-01-25T21:32:25.987967Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10416,6 +10509,99 @@
       "installedTargets": null
     },
     {
+      "addonID": 246183,
+      "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
+      "installedFile": {
+        "id": 2865501,
+        "displayName": "Roots-1.12.2-3.0.24.jar",
+        "fileName": "Roots-1.12.2-3.0.24.jar",
+        "fileDate": "2020-01-22T00:35:48.043Z",
+        "fileLength": 1464737,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2865/501/Roots-1.12.2-3.0.24.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 282940,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306770,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 277064,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1944452930,
+            "type": 0
+          },
+          {
+            "foldername": "epicsquid",
+            "fingerprint": 3802987711,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2965427922,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2341325794,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 646752861,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Roots-1.12.2-3.0.24.jar"
+      },
+      "dateInstalled": "2019-09-02T17:58:04.438496Z",
+      "dateUpdated": "2020-01-26T00:38:39.505143Z",
+      "dateLastUpdateAttempted": "2020-01-26T00:38:39.505143Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 222789,
       "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
       "installedFile": {
@@ -10466,99 +10652,6 @@
       "dateInstalled": "2020-01-05T03:29:23.581868Z",
       "dateUpdated": "2020-01-05T03:29:23.58425Z",
       "dateLastUpdateAttempted": "2020-01-05T03:29:23.58425Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 246183,
-      "gameInstanceID": "8f64a09f-c8f9-4a1d-bbbd-64010e253c86",
-      "installedFile": {
-        "id": 2823796,
-        "displayName": "Roots-1.12.2-3.0.21.jar",
-        "fileName": "Roots-1.12.2-3.0.21.jar",
-        "fileDate": "2019-11-08T03:23:00.06Z",
-        "fileLength": 1465641,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2823/796/Roots-1.12.2-3.0.21.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 282940,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 227083,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 277064,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 306770,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 680724220,
-            "type": 0
-          },
-          {
-            "foldername": "epicsquid",
-            "fingerprint": 830713292,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3109787062,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 931344695,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1183273956,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Roots-1.12.2-3.0.21.jar"
-      },
-      "dateInstalled": "2019-09-02T17:58:04.438496Z",
-      "dateUpdated": "2019-11-09T04:10:53.655098Z",
-      "dateLastUpdateAttempted": "2019-11-09T04:10:53.655098Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
