@@ -68,3 +68,19 @@ Updated Mods
 Added Mods
  - oops
  - walljump
+
+# v1.7.0
+
+Updated Mods
+
+ - TheBetweenlands
+ - astralsorcery
+ - Journeymap
+ - Roots
+ - betternether
+ - mysticalworld
+ - DocumentYourModMod
+ - RefinedRelocation
+ - ClimaticBiomes
+ - Waystones
+ 
